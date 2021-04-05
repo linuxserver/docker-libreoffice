@@ -1,0 +1,30 @@
+# [linuxserver/libreoffice](https://github.com/linuxserver/docker-libreoffice)
+
+This readme has been truncated from the full version found [HERE](https://github.com/linuxserver/docker-libreoffice)
+
+[LibreOffice](https://www.libreoffice.org/) is a free and powerful office suite, and a successor to OpenOffice.org (commonly known as OpenOffice). Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
+
+## Usage
+
+```
+docker run -d \
+  --name=libreoffice \
+  -e PUID=1000 \
+  -e PGID=1000 \
+  -e TZ=Europe/London \
+  -p 3000:3000 \
+  -v /path/to/config:/config \
+  --restart unless-stopped \
+  linuxserver/libreoffice
+```
+
+## Application Setup
+
+The application can be accessed at:
+
+* http://yourhost:3000/
+
+By default the user/pass is abc/abc, if you change your password or want to login manually to the GUI session for any reason use the following link:
+
+* http://yourhost:3000/?login=true
+
