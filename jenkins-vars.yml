@@ -1,0 +1,29 @@
+---
+
+# jenkins variables
+project_name: docker-libreoffice
+external_type: alpine_repo
+release_type: stable
+release_tag: latest
+ls_branch: master
+repo_vars:
+  - BUILD_VERSION_ARG = 'LIBREOFFICE_VERSION'
+  - LS_USER = 'linuxserver'
+  - LS_REPO = 'docker-libreoffice'
+  - CONTAINER_NAME = 'libreoffice'
+  - DOCKERHUB_IMAGE = 'linuxserver/libreoffice'
+  - DEV_DOCKERHUB_IMAGE = 'lsiodev/libreoffice'
+  - PR_DOCKERHUB_IMAGE = 'lspipepr/libreoffice'
+  - DIST_IMAGE = 'alpine'
+  - DIST_TAG = '3.13'
+  - DIST_REPO = 'http://dl-cdn.alpinelinux.org/alpine/v3.13/community/'
+  - DIST_REPO_PACKAGES = 'libreoffice'
+  - MULTIARCH = 'true'
+  - CI = 'true'
+  - CI_WEB = 'true'
+  - CI_PORT = '3000'
+  - CI_SSL = 'false'
+  - CI_DELAY = '120'
+  - CI_DOCKERENV = 'TZ=US/Pacific'
+  - CI_AUTH = 'user:password'
+  - CI_WEBPATH = ''
