@@ -2,7 +2,7 @@ alpine-baselayout-3.2.0-r8
 alpine-keys-2.2-r0
 alsa-lib-1.2.4-r2
 alsa-plugins-pulse-1.2.2-r1
-apk-tools-2.12.4-r2
+apk-tools-2.12.5-r0
 at-spi2-atk-2.38.0-r0
 at-spi2-core-2.38.0-r0
 atk-2.36.0-r0
@@ -146,7 +146,7 @@ libreoffice-math-6.4.6.2-r2
 libreoffice-writer-6.4.6.2-r2
 libreofficekit-6.4.6.2-r2
 librevenge-0.0.4-r4
-librsvg-2.50.3-r0
+librsvg-2.50.4-r0
 libsasl-2.1.27-r10
 libseccomp-2.5.1-r1
 libsecret-0.20.4-r0
@@ -212,7 +212,7 @@ ncurses-terminfo-base-6.2_p20210109-r0
 neon-0.31.2-r0
 nettle-3.7-r0
 nghttp2-libs-1.42.0-r1
-nodejs-14.16.1-r0
+nodejs-14.16.1-r1
 npth-1.6-r0
 nspr-4.29-r0
 nss-3.63-r1
@@ -263,6 +263,7 @@ wayland-libs-client-1.18.0-r5
 wayland-libs-cursor-1.18.0-r5
 wayland-libs-egl-1.18.0-r5
 wayland-libs-server-1.18.0-r5
+websocat-1.7.0-r0
 xauth-1.1-r0
 xcb-util-0.4.0-r3
 xinit-1.4.1-r0
@@ -271,8 +272,8 @@ xkeyboard-config-2.31-r0
 xmlsec-1.2.31-r0
 xmlsec-nss-1.2.31-r0
 xmodmap-1.0.10-r0
-xorg-server-1.20.10-r4
-xorg-server-common-1.20.10-r4
+xorg-server-1.20.11-r0
+xorg-server-common-1.20.11-r0
 xorgxrdp-0.2.15-r0
 xrdb-1.2.0-r1
 xrdp-0.9.15-r0
