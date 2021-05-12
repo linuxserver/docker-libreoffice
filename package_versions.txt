@@ -238,7 +238,7 @@ poppler-20.12.1-r0
 procps-3.3.16-r0
 pulseaudio-14.1-r0
 pulseaudio-alsa-14.1-r0
-python3-3.8.8-r0
+python3-3.8.10-r0
 raptor2-2.0.15-r3
 rasqal-0.9.33-r1
 readline-8.1.0-r0
