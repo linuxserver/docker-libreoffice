@@ -168,7 +168,7 @@ libwebp-1.1.0-r0
 libwpd-0.10.3-r0
 libwpg-0.3.3-r0
 libwps-0.4.12-r0
-libx11-1.7.0-r0
+libx11-1.7.1-r0
 libxau-1.0.9-r0
 libxaw-1.0.13-r3
 libxcb-1.14-r1
@@ -243,7 +243,7 @@ raptor2-2.0.15-r3
 rasqal-0.9.33-r1
 readline-8.1.0-r0
 redland-1.0.17-r0
-runc-1.0.0_rc93-r0
+runc-1.0.0_rc95-r0
 s6-ipcserver-2.10.0.0-r0
 scanelf-1.2.8-r0
 shadow-4.8.1-r0
