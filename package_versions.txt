@@ -216,7 +216,7 @@ nghttp2-libs-1.42.0-r1
 nodejs-14.16.1-r1
 npth-1.6-r0
 nspr-4.29-r0
-nss-3.63-r1
+nss-3.66-r0
 openbox-3.6.1-r2
 openbox-libs-3.6.1-r2
 openjpeg-2.4.0-r1
