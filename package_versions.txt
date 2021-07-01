@@ -105,7 +105,7 @@ libffi-3.3-r2
 libfontenc-1.1.4-r0
 libfreehand-0.1.2-r4
 libgcc-10.2.1_pre1-r3
-libgcrypt-1.8.7-r0
+libgcrypt-1.8.8-r0
 libgomp-10.2.1_pre1-r3
 libgpg-error-1.41-r0
 libhunspell-1.7.0-r1
