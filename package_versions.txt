@@ -55,7 +55,7 @@ giflib-5.2.1-r0
 glib-2.66.8-r0
 glibmm-2.64.5-r0
 gmp-6.2.1-r0
-gnupg-2.2.27-r0
+gnupg-2.2.31-r0
 gnutls-3.7.1-r0
 gpgme-1.15.0-r0
 gpgmepp-1.15.0-r0
@@ -93,7 +93,7 @@ libcap-2.46-r0
 libcdr-0.1.6-r3
 libcmis-0.5.2-r2
 libcrypto1.1-1.1.1l-r0
-libcurl-7.79.0-r0
+libcurl-7.79.1-r0
 libdrm-2.4.104-r0
 libe-book-0.1.3-r8
 libedit-20191231.3.1-r1
@@ -211,7 +211,7 @@ mythes-1.2.4-r1
 ncurses-libs-6.2_p20210109-r0
 ncurses-terminfo-base-6.2_p20210109-r0
 neon-0.31.2-r0
-nettle-3.7.2-r0
+nettle-3.7.3-r0
 nghttp2-libs-1.42.0-r1
 nodejs-14.17.6-r0
 npth-1.6-r0
