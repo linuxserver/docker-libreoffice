@@ -214,7 +214,7 @@ ncurses-terminfo-base-6.2_p20210612-r0
 neon-0.31.2-r0
 nettle-3.7.3-r0
 nghttp2-libs-1.43.0-r0
-nodejs-14.17.6-r0
+nodejs-14.18.1-r0
 npth-1.6-r0
 nspr-4.31-r0
 nss-3.66-r0
