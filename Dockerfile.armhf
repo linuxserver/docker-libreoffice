@@ -17,7 +17,7 @@ RUN \
   fi && \
   apk add --no-cache \
     libreoffice==${LIBREOFFICE_VERSION} \
-    openjdk17-jre \
+    openjdk8-jre \
     tint2 && \
   echo "**** openbox tweaks ****" && \
   sed -i \
