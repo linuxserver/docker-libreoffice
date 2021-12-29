@@ -230,7 +230,7 @@ nghttp2-libs-1.46.0-r0
 nodejs-16.13.1-r0
 npth-1.6-r1
 nspr-4.32-r0
-nss-3.72-r1
+nss-3.72.1-r0
 openbox-3.6.1-r2
 openbox-libs-3.6.1-r2
 openjdk8-jre-8.302.08-r2
