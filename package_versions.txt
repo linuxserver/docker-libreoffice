@@ -25,7 +25,7 @@ cairomm-1.14.0-r0
 cdparanoia-libs-10.2-r9
 clucene-2.3.3.4-r10
 clucene-contribs-2.3.3.4-r10
-containerd-1.5.8-r0
+containerd-1.5.9-r0
 coreutils-9.0-r2
 cups-libs-2.3.3-r5
 dbus-1.12.20-r4
@@ -227,7 +227,7 @@ ncurses-terminfo-base-6.3_p20211120-r0
 neon-0.32.1-r0
 nettle-3.7.3-r0
 nghttp2-libs-1.46.0-r0
-nodejs-16.13.1-r0
+nodejs-16.13.2-r0
 npth-1.6-r1
 nspr-4.32-r0
 nss-3.72.1-r0
