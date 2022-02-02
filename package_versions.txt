@@ -176,7 +176,7 @@ libuuid-2.37.2-r1
 libverto-0.3.2-r0
 libvisio-0.1.7-r4
 libvorbis-1.3.7-r0
-libwebp-1.2.1-r0
+libwebp-1.2.2-r0
 libwpd-0.10.3-r0
 libwpg-0.3.3-r0
 libwps-0.4.12-r0
