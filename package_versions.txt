@@ -128,7 +128,7 @@ libixion-0.16.1-r1
 libjpeg-turbo-2.1.2-r0
 libksba-1.6.0-r0
 liblangtag-0.6.3-r1
-libldap-2.6.0-r0
+libldap-2.6.2-r0
 liblksctp-1.0.19-r0
 libltdl-2.4.6-r7
 libmd-1.0.3-r0
