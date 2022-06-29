@@ -144,7 +144,7 @@ liborcus-0.16.1-r1
 libpagemaker-0.0.4-r3
 libpciaccess-0.16-r0
 libpng-1.6.37-r1
-libpq-14.3-r0
+libpq-14.4-r0
 libproc-3.3.17-r0
 libpulse-15.0-r2
 libpulse-mainloop-glib-15.0-r2
