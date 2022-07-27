@@ -241,7 +241,7 @@ ncurses-terminfo-base-6.3_p20211120-r0
 neon-0.32.1-r0
 nettle-3.7.3-r0
 nghttp2-libs-1.46.0-r0
-nodejs-16.14.2-r0
+nodejs-16.16.0-r0
 npth-1.6-r1
 nspr-4.32-r0
 nss-3.78.1-r0
@@ -273,7 +273,7 @@ poppler-21.11.0-r0
 procps-3.3.17-r0
 pulseaudio-15.0-r2
 pulseaudio-alsa-15.0-r2
-python3-3.9.7-r4
+python3-3.9.13-r1
 raptor2-2.0.15-r4
 rasqal-0.9.33-r2
 readline-8.1.1-r0
