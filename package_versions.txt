@@ -17,8 +17,8 @@ box2d-2.4.1-r0
 brotli-libs-1.0.9-r5
 busybox-1.34.1-r7
 c-ares-1.18.1-r0
-ca-certificates-20211220-r0
-ca-certificates-bundle-20211220-r0
+ca-certificates-20220614-r0
+ca-certificates-bundle-20220614-r0
 cairo-1.16.0-r5
 cairo-gobject-1.16.0-r5
 cairomm-1.14.0-r0
@@ -59,7 +59,7 @@ glib-2.70.1-r0
 glibmm-2.66.0-r1
 gmp-6.2.1-r1
 gnupg-gpgconf-2.2.31-r2
-gnutls-3.7.1-r0
+gnutls-3.7.1-r1
 gpg-2.2.31-r2
 gpg-agent-2.2.31-r2
 gpgme-1.16.0-r0
@@ -145,7 +145,7 @@ liborcus-0.16.1-r1
 libpagemaker-0.0.4-r3
 libpciaccess-0.16-r0
 libpng-1.6.37-r1
-libpq-14.4-r0
+libpq-14.5-r0
 libproc-3.3.17-r0
 libpulse-15.0-r2
 libpulse-mainloop-glib-15.0-r2
@@ -304,7 +304,7 @@ wayland-libs-cursor-1.19.0-r1
 wayland-libs-egl-1.19.0-r1
 wayland-libs-server-1.19.0-r1
 webrtc-audio-processing-0.3.1-r3
-websocat-1.9.0-r0
+websocat-1.8.1-r0
 xauth-1.1-r0
 xcb-util-0.4.0-r3
 xf86-video-amdgpu-21.0.0-r0
@@ -325,6 +325,6 @@ xterm-371-r0
 xz-5.2.5-r1
 xz-libs-5.2.5-r1
 yajl-2.1.0-r2
-zlib-1.2.12-r1
+zlib-1.2.12-r2
 zstd-libs-1.5.0-r0
 zxing-cpp-1.2.0-r0
