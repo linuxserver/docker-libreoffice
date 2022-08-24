@@ -247,9 +247,9 @@ nspr-4.32-r0
 nss-3.78.1-r0
 openbox-3.6.1-r2
 openbox-libs-3.6.1-r2
-openjdk8-jre-8.322.06-r0
-openjdk8-jre-base-8.322.06-r0
-openjdk8-jre-lib-8.322.06-r0
+openjdk8-jre-8.345.01-r0
+openjdk8-jre-base-8.345.01-r0
+openjdk8-jre-lib-8.345.01-r0
 openjpeg-2.4.0-r2
 openssh-client-common-8.8_p1-r1
 openssh-client-default-8.8_p1-r1
@@ -325,6 +325,6 @@ xterm-371-r0
 xz-5.2.5-r1
 xz-libs-5.2.5-r1
 yajl-2.1.0-r2
-zlib-1.2.12-r2
+zlib-1.2.12-r3
 zstd-libs-1.5.0-r0
 zxing-cpp-1.2.0-r0
