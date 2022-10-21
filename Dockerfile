@@ -1,4 +1,4 @@
-FROM lsiobase/rdesktop-web:alpine
+FROM ghcr.io/linuxserver/baseimage-rdesktop-web:3.16
 
 # set version label
 ARG BUILD_DATE
@@ -9,10 +9,8 @@ LABEL maintainer="thelamer"
 
 RUN \
   echo "**** install packages ****" && \
-  apk add --no-cache --virtual=build-dependencies \
-    curl && \
   if [ -z ${LIBREOFFICE_VERSION+x} ]; then \
-    LIBREOFFICE_VERSION=$(curl -sL "http://dl-cdn.alpinelinux.org/alpine/v3.15/community/x86_64/APKINDEX.tar.gz" | tar -xz -C /tmp \
+    LIBREOFFICE_VERSION=$(curl -sL "http://dl-cdn.alpinelinux.org/alpine/v3.16/community/x86_64/APKINDEX.tar.gz" | tar -xz -C /tmp \
     && awk '/^P:libreoffice$/,/V:/' /tmp/APKINDEX | sed -n 2p | sed 's/^V://'); \
   fi && \
   apk add --no-cache \
@@ -24,8 +22,6 @@ RUN \
     's/NLMC/NLIMC/g' \
     /etc/xdg/openbox/rc.xml && \
   echo "**** cleanup ****" && \
-  apk del --purge \
-    build-dependencies && \
   rm -rf \
     /tmp/*
 
@@ -34,4 +30,5 @@ COPY /root /
 
 # ports and volumes
 EXPOSE 3000
+
 VOLUME /config
