@@ -29,6 +29,9 @@ param_volumes:
 param_usage_include_ports: true
 param_ports:
   - { external_port: "3000", internal_port: "3000", port_desc: "LibreOffice desktop gui." }
+opt_security_opt_param: true
+opt_security_opt_param_vars:
+  - { run_var: "seccomp=unconfined", compose_var: "seccomp:unconfined", desc: "For Docker Engine only, many modern gui apps need this to function on older hosts as syscalls are unknown to Docker." }
 
 # application setup block
 app_setup_block_enabled: true
@@ -43,6 +46,7 @@ app_setup_block: |
 
 # changelog
 changelogs:
+  - { date: "21.10.22:", desc: "Rebase to Alpine 3.16, migrate to s6v3." }
   - { date: "23.12.21:", desc: "Rebase to Alpine 3.15." }
   - { date: "26.09.21:", desc: "Rebase to Alpine 3.14." }
   - { date: "05.04.21:", desc: "Initial release." }
