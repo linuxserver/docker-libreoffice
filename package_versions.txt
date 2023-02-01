@@ -292,7 +292,7 @@ pcsc-lite-libs-1.9.6-r0
 perl-5.34.1-r0
 pinentry-1.2.0-r0
 pixman-0.40.0-r4
-pkgconf-1.8.0-r1
+pkgconf-1.8.1-r0
 poppler-22.05.0-r0
 procps-3.3.17-r1
 pulseaudio-15.0-r2
