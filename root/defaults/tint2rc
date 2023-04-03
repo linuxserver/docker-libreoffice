@@ -167,7 +167,8 @@ launcher_item_app = /usr/share/applications/libreoffice-impress.desktop
 launcher_item_app = /usr/share/applications/libreoffice-draw.desktop
 launcher_item_app = /usr/share/applications/libreoffice-math.desktop
 launcher_item_app = /usr/share/applications/libreoffice-base.desktop
-launcher_item_app = /usr/share/applications/xterm.desktop
+launcher_item_app = /usr/share/applications/thunar.desktop
+launcher_item_app = /usr/share/applications/st.desktop
 
 #-------------------------------------
 # Clock

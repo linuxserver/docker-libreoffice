@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+<menu id="root-menu" label="MENU">
+<item label="Terminal" icon="/usr/share/pixmaps/xterm-color_48x48.xpm"><action name="Execute"><command>/usr/bin/st</command></action></item>
+<item label="File Manager" icon="/usr/share/icons/hicolor/scalable/apps/org.xfce.thunar.svg"><action name="Execute"><command>/usr/bin/thunar</command></action></item>
+</menu>
+</openbox_menu>

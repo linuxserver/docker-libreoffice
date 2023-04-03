@@ -19,11 +19,17 @@ RUN \
   apk add --no-cache \
     libreoffice==${LIBREOFFICE_VERSION} \
     openjdk8-jre \
+    st \
+    thunar \
     tint2 && \
   echo "**** openbox tweaks ****" && \
   sed -i \
     's/NLMC/NLIMC/g' \
     /etc/xdg/openbox/rc.xml && \
+  sed -i 's|</applications>|  <application title="LibreOffice" type="normal">\n    <maximized>yes</maximized>\n  </application>\n</applications>|' /etc/xdg/openbox/rc.xml && \
+  sed -i \
+    '/Icon=/c Icon=xterm-color_48x48' \
+    /usr/share/applications/st.desktop && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/*
