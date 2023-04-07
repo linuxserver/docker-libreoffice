@@ -1,8 +1,0 @@
-#!/usr/bin/with-contenv bash
-
-# default file copies first run
-if [[ ! -f /config/.config/tint2/tint2rc ]]; then
-    mkdir -p /config/.config/tint2 && \
-    cp /defaults/tint2rc /config/.config/tint2/tint2rc && \
-    chown -R abc:abc /config/.config
-fi
