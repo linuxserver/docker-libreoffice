@@ -3,7 +3,7 @@
 # default file copies first run
 if [[ ! -f $HOME/.config/tint2/tint2rc ]]; then
     mkdir -p $HOME/.config/tint2
-    cp /defaults/tint2rc /config/.config/tint2/tint2rc
+    cp /defaults/tint2rc $HOME/.config/tint2/tint2rc
 fi
 
 # Start UI
