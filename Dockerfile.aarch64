@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-kasmvnc:arm64v8-alpine317
+FROM ghcr.io/linuxserver/baseimage-kasmvnc:arm64v8-alpine318
 
 # set version label
 ARG BUILD_DATE
@@ -13,7 +13,7 @@ ENV TITLE=LibreOffice
 RUN \
   echo "**** install packages ****" && \
   if [ -z ${LIBREOFFICE_VERSION+x} ]; then \
-    LIBREOFFICE_VERSION=$(curl -sL "http://dl-cdn.alpinelinux.org/alpine/v3.17/community/x86_64/APKINDEX.tar.gz" | tar -xz -C /tmp \
+    LIBREOFFICE_VERSION=$(curl -sL "http://dl-cdn.alpinelinux.org/alpine/v3.18/community/x86_64/APKINDEX.tar.gz" | tar -xz -C /tmp \
     && awk '/^P:libreoffice$/,/V:/' /tmp/APKINDEX | sed -n 2p | sed 's/^V://'); \
   fi && \
   apk add --no-cache \
