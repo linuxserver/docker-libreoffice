@@ -121,6 +121,7 @@ flite                                                                         2.
 flow-engine                                                                                                                      java-archive  
 flute                                                                         1.1.6                                              java-archive  
 font-dejavu                                                                   2.37-r5                                            apk           
+font-liberation                                                               2.1.5-r2                                           apk           
 font-noto                                                                     23.5.1-r0                                          apk           
 font-noto-common                                                              23.5.1-r0                                          apk           
 font-noto-math                                                                23.5.1-r0                                          apk           
@@ -416,7 +417,7 @@ gpgsm                                                                         2.
 graphene                                                                      1.10.8-r2                                          apk           
 graphite2                                                                     1.3.14-r5                                          apk           
 gsm                                                                           1.0.22-r3                                          apk           
-gst-plugins-bad                                                               1.22.4-r0                                          apk           
+gst-plugins-bad                                                               1.22.5-r0                                          apk           
 gst-plugins-base                                                              1.22.4-r0                                          apk           
 gstreamer                                                                     1.22.4-r0                                          apk           
 gtk+3.0                                                                       3.24.38-r0                                         apk           
@@ -429,7 +430,7 @@ has-flag                                                                      4.
 has-proto                                                                     1.0.1                                              npm           
 has-symbols                                                                   1.0.3                                              npm           
 hicolor-icon-theme                                                            0.17-r2                                            apk           
-hsqldb                                                                        build-7.5.3.2                                      java-archive  
+hsqldb                                                                        build-7.5.5.2                                      java-archive  
 http-errors                                                                   2.0.0                                              npm           
 hwdata-pci                                                                    0.370-r0                                           apk           
 hyphen                                                                        2.8.8-r2                                           apk           
@@ -566,17 +567,17 @@ libpulse                                                                      16
 libqxp                                                                        0.0.2-r9                                           apk           
 libraw1394                                                                    2.1.2-r4                                           apk           
 libreoffice                                                                                                                      java-archive  
-libreoffice                                                                   7.5.3.2-r2                                         apk           
-libreoffice-base                                                              7.5.3.2-r2                                         apk           
-libreoffice-calc                                                              7.5.3.2-r2                                         apk           
-libreoffice-common                                                            7.5.3.2-r2                                         apk           
-libreoffice-connector-postgres                                                7.5.3.2-r2                                         apk           
-libreoffice-draw                                                              7.5.3.2-r2                                         apk           
-libreoffice-impress                                                           7.5.3.2-r2                                         apk           
-libreoffice-lang-en_us                                                        7.5.3.2-r2                                         apk           
-libreoffice-math                                                              7.5.3.2-r2                                         apk           
-libreoffice-writer                                                            7.5.3.2-r2                                         apk           
-libreofficekit                                                                7.5.3.2-r2                                         apk           
+libreoffice                                                                   7.5.5.2-r0                                         apk           
+libreoffice-base                                                              7.5.5.2-r0                                         apk           
+libreoffice-calc                                                              7.5.5.2-r0                                         apk           
+libreoffice-common                                                            7.5.5.2-r0                                         apk           
+libreoffice-connector-postgres                                                7.5.5.2-r0                                         apk           
+libreoffice-draw                                                              7.5.5.2-r0                                         apk           
+libreoffice-impress                                                           7.5.5.2-r0                                         apk           
+libreoffice-lang-en_us                                                        7.5.5.2-r0                                         apk           
+libreoffice-math                                                              7.5.5.2-r0                                         apk           
+libreoffice-writer                                                            7.5.5.2-r0                                         apk           
+libreofficekit                                                                7.5.5.2-r0                                         apk           
 librepository                                                                 1.1.6                                              java-archive  
 librevenge                                                                    0.0.5-r1                                           apk           
 librist                                                                       0.2.7-r0                                           apk           
@@ -805,7 +806,7 @@ speexdsp                                                                      1.
 spirv-tools                                                                   1.3.243.0-r1                                       apk           
 sqlite-libs                                                                   3.41.2-r2                                          apk           
 ssl_client                                                                    1.36.1-r1                                          apk           
-st                                                                            0.9-r0                                             apk           
+st                                                                            0.9-r1                                             apk           
 startup-notification                                                          0.12-r5                                            apk           
 statuses                                                                      2.0.1                                              npm           
 sudo                                                                          1.9.13_p3-r2                                       apk           
