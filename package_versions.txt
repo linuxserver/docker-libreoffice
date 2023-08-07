@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.0                                              npm           
 @types/cookie                                                                 0.4.1                                              npm           
 @types/cors                                                                   2.8.13                                             npm           
-@types/node                                                                   20.4.5                                             npm           
+@types/node                                                                   20.4.8                                             npm           
 HelloWorld                                                                                                                       java-archive  
 Highlight                                                                                                                        java-archive  
 MemoryUsage                                                                                                                      java-archive  
@@ -63,7 +63,7 @@ color-convert                                                                 2.
 color-name                                                                    1.1.4                                              npm           
 commonwizards                                                                                                                    java-archive  
 concat-map                                                                    0.0.1                                              npm           
-containerd                                                                    1.7.2-r0                                           apk           
+containerd                                                                    1.7.2-r1                                           apk           
 content-disposition                                                           0.5.4                                              npm           
 content-type                                                                  1.0.5                                              npm           
 cookie                                                                        0.4.2                                              npm           
@@ -85,17 +85,17 @@ destroy                                                                       1.
 device-mapper-libs                                                            2.03.21-r3                                         apk           
 directfb                                                                      1.7.7-r6                                           apk           
 dnsns                                                                                                                            java-archive  
-docker                                                                        23.0.6-r3                                          apk           
-docker-cli                                                                    23.0.6-r3                                          apk           
-docker-cli-buildx                                                             0.10.4-r5                                          apk           
-docker-cli-compose                                                            2.17.3-r3                                          apk           
-docker-engine                                                                 23.0.6-r3                                          apk           
+docker                                                                        23.0.6-r4                                          apk           
+docker-cli                                                                    23.0.6-r4                                          apk           
+docker-cli-buildx                                                             0.10.4-r6                                          apk           
+docker-cli-compose                                                            2.17.3-r4                                          apk           
+docker-engine                                                                 23.0.6-r4                                          apk           
 ee-first                                                                      1.1.1                                              npm           
 ejs                                                                           3.1.9                                              npm           
 encodeurl                                                                     1.0.2                                              npm           
 encodings                                                                     1.0.7-r1                                           apk           
-engine.io                                                                     6.5.1                                              npm           
-engine.io-parser                                                              5.1.0                                              npm           
+engine.io                                                                     6.5.2                                              npm           
+engine.io-parser                                                              5.2.1                                              npm           
 escape-html                                                                   1.0.3                                              npm           
 etag                                                                          1.8.1                                              npm           
 eudev-libs                                                                    3.2.11-r8                                          apk           
@@ -497,7 +497,7 @@ libc-utils                                                                    0.
 libcap2                                                                       2.69-r0                                            apk           
 libcdr                                                                        0.1.7-r11                                          apk           
 libcom_err                                                                    1.47.0-r2                                          apk           
-libcrypto3                                                                    3.1.1-r3                                           apk           
+libcrypto3                                                                    3.1.2-r0                                           apk           
 libcurl                                                                       8.2.1-r0                                           apk           
 libdav1d                                                                      1.2.1-r0                                           apk           
 libdc1394                                                                     2.2.6-r1                                           apk           
@@ -592,7 +592,7 @@ libsodium                                                                     1.
 libsrt                                                                        1.5.2-r0                                           apk           
 libsrtp                                                                       2.5.0-r1                                           apk           
 libssh                                                                        0.10.5-r0                                          apk           
-libssl3                                                                       3.1.1-r3                                           apk           
+libssl3                                                                       3.1.2-r0                                           apk           
 libstaroffice                                                                 0.0.7-r7                                           apk           
 libstdc++                                                                     12.2.1_git20220924-r10                             apk           
 libtasn1                                                                      4.19.0-r1                                          apk           
@@ -655,7 +655,7 @@ local_policy                                                                    
 localedata                                                                                                                       java-archive  
 management-agent                                                                                                                 java-archive  
 mariadb-connector-c                                                           3.3.5-r0                                           apk           
-mbedtls                                                                       2.28.3-r1                                          apk           
+mbedtls                                                                       2.28.4-r0                                          apk           
 mcookie                                                                       2.38.1-r8                                          apk           
 media-typer                                                                   0.3.0                                              npm           
 merge-descriptors                                                             1.0.1                                              npm           
@@ -719,7 +719,7 @@ openjpeg                                                                      2.
 openssh-client-common                                                         9.3_p2-r0                                          apk           
 openssh-client-default                                                        9.3_p2-r0                                          apk           
 openssh-keygen                                                                9.3_p2-r0                                          apk           
-openssl                                                                       3.1.1-r3                                           apk           
+openssl                                                                       3.1.2-r0                                           apk           
 opus                                                                          1.4-r0                                             apk           
 orc                                                                           0.4.34-r0                                          apk           
 p11-kit                                                                       0.24.1-r2                                          apk           
@@ -772,7 +772,7 @@ reportbuilderwizard                                                             
 resources                                                                     1.8.0_372                                          java-archive  
 ridl                                                                                                                             java-archive  
 rt                                                                            1.8.0_372                                          java-archive  
-runc                                                                          1.1.7-r1                                           apk           
+runc                                                                          1.1.7-r2                                           apk           
 sac                                                                                                                              java-archive  
 safe-buffer                                                                   5.2.1                                              npm           
 safer-buffer                                                                  2.1.2                                              npm           
@@ -796,7 +796,7 @@ sigs.k8s.io/yaml                                                              v1
 sigs.k8s.io/yaml                                                              v1.3.0                                             go-module     
 skalibs                                                                       2.13.1.1-r1                                        apk           
 smoketest                                                                                                                        java-archive  
-socket.io                                                                     4.7.1                                              npm           
+socket.io                                                                     4.7.2                                              npm           
 socket.io-adapter                                                             2.5.2                                              npm           
 socket.io-parser                                                              4.2.4                                              npm           
 soundtouch                                                                    2.3.2-r2                                           apk           
