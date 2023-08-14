@@ -446,7 +446,6 @@ iptables                                                                      1.
 iso-codes                                                                     4.15.0-r0                                          apk           
 jaccess                                                                                                                          java-archive  
 jake                                                                          10.8.7                                             npm           
-java                                                                          1.8.0_372-b07                                      binary        
 java-cacerts                                                                  1.0-r1                                             apk           
 java-common                                                                   0.5-r0                                             apk           
 java_uno                                                                                                                         java-archive  
