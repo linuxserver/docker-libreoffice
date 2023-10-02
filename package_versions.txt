@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.0                                              npm           
 @types/cookie                                                                 0.4.1                                              npm           
 @types/cors                                                                   2.8.14                                             npm           
-@types/node                                                                   20.6.3                                             npm           
+@types/node                                                                   20.8.0                                             npm           
 HelloWorld                                                                                                                       java-archive  
 Highlight                                                                                                                        java-archive  
 MemoryUsage                                                                                                                      java-archive  
@@ -17,7 +17,7 @@ accepts                                                                       1.
 alpine-baselayout                                                             3.4.3-r1                                           apk           
 alpine-baselayout-data                                                        3.4.3-r1                                           apk           
 alpine-keys                                                                   2.4-r1                                             apk           
-alpine-release                                                                3.18.3-r0                                          apk           
+alpine-release                                                                3.18.4-r0                                          apk           
 alsa-lib                                                                      1.2.9-r1                                           apk           
 ansi-styles                                                                   4.3.0                                              npm           
 aom-libs                                                                      3.6.1-r0                                           apk           
@@ -609,7 +609,7 @@ libvdpau                                                                      1.
 libverto                                                                      0.3.2-r2                                           apk           
 libvisio                                                                      0.1.7-r9                                           apk           
 libvorbis                                                                     1.3.7-r1                                           apk           
-libvpx                                                                        1.13.0-r1                                          apk           
+libvpx                                                                        1.13.0-r2                                          apk           
 libwebp                                                                       1.3.2-r0                                           apk           
 libwpd                                                                        0.10.3-r1                                          apk           
 libwpg                                                                        0.3.4-r0                                           apk           
