@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.0                                              npm           
 @types/cookie                                                                 0.4.1                                              npm           
 @types/cors                                                                   2.8.16                                             npm           
-@types/node                                                                   20.9.0                                             npm           
+@types/node                                                                   20.9.1                                             npm           
 HelloWorld                                                                                                                       java-archive  
 Highlight                                                                                                                        java-archive  
 MemoryUsage                                                                                                                      java-archive  
@@ -420,9 +420,9 @@ gpgsm                                                                         2.
 graphene                                                                      1.10.8-r2                                          apk           
 graphite2                                                                     1.3.14-r5                                          apk           
 gsm                                                                           1.0.22-r3                                          apk           
-gst-plugins-bad                                                               1.22.5-r0                                          apk           
-gst-plugins-base                                                              1.22.5-r0                                          apk           
-gstreamer                                                                     1.22.5-r0                                          apk           
+gst-plugins-bad                                                               1.22.7-r0                                          apk           
+gst-plugins-base                                                              1.22.7-r0                                          apk           
+gstreamer                                                                     1.22.7-r0                                          apk           
 gtk+3.0                                                                       3.24.38-r1                                         apk           
 gtk-update-icon-cache                                                         3.24.38-r1                                         apk           
 gtk4.0                                                                        4.10.4-r0                                          apk           
@@ -565,7 +565,7 @@ libpaper                                                                      2.
 libpciaccess                                                                  0.17-r2                                            apk           
 libplacebo                                                                    5.264.1-r1                                         apk           
 libpng                                                                        1.6.39-r3                                          apk           
-libpq                                                                         15.4-r0                                            apk           
+libpq                                                                         15.5-r0                                            apk           
 libproc2                                                                      4.0.4-r0                                           apk           
 libpulse                                                                      16.1-r10                                           apk           
 libqxp                                                                        0.0.2-r9                                           apk           
