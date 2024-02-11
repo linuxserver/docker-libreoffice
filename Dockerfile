@@ -11,6 +11,10 @@ LABEL maintainer="thelamer"
 ENV TITLE=LibreOffice
 
 RUN \
+  echo "**** add icon ****" && \
+  curl -o \
+    /kclient/public/icon.png \
+    https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/libreoffice-logo.png && \
   echo "**** install packages ****" && \
   if [ -z ${LIBREOFFICE_VERSION+x} ]; then \
     LIBREOFFICE_VERSION=$(curl -sL "http://dl-cdn.alpinelinux.org/alpine/v3.19/community/x86_64/APKINDEX.tar.gz" | tar -xz -C /tmp \
@@ -22,11 +26,14 @@ RUN \
     st \
     thunar \
     tint2 && \
+  echo "**** locales ****" && \
+  for LOCALE in $(curl -sL https://raw.githubusercontent.com/thelamer/lang-stash/master/langs); do \
+    apk add --no-cache libreoffice-lang-$(echo ${LOCALE}| tr '[:upper:]' '[:lower:]') || apk add --no-cache libreoffice-lang-$(echo ${LOCALE}| head -c2); \
+  done && \
   echo "**** openbox tweaks ****" && \
   sed -i \
     's/NLMC/NLIMC/g' \
     /etc/xdg/openbox/rc.xml && \
-  sed -i 's|</applications>|  <application title="LibreOffice" type="normal">\n    <maximized>yes</maximized>\n  </application>\n</applications>|' /etc/xdg/openbox/rc.xml && \
   sed -i \
     '/Icon=/c Icon=xterm-color_48x48' \
     /usr/share/applications/st.desktop && \
