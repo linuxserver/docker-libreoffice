@@ -709,7 +709,7 @@ libpaper                                                                      2.
 libpciaccess                                                                  0.17-r2                                      apk           
 libplacebo                                                                    6.338.1-r0                                   apk           
 libpng                                                                        1.6.40-r0                                    apk           
-libpq                                                                         16.1-r0                                      apk           
+libpq                                                                         16.2-r0                                      apk           
 libproc2                                                                      4.0.4-r0                                     apk           
 libpulse                                                                      16.1-r11                                     apk           
 libqxp                                                                        0.0.2-r10                                    apk           
