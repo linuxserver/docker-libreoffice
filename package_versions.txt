@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.0                                        npm                            
 @types/cookie                                                                 0.4.1                                        npm                            
 @types/cors                                                                   2.8.17                                       npm                            
-@types/node                                                                   20.11.30                                     npm                            
+@types/node                                                                   20.12.2                                      npm                            
 HelloWorld                                                                                                                 java-archive                   
 Highlight                                                                                                                  java-archive                   
 MemoryUsage                                                                                                                java-archive                   
@@ -56,7 +56,7 @@ brotli-libs                                                                   1.
 busybox                                                                       1.36.1-r15                                   apk                            
 busybox-binsh                                                                 1.36.1-r15                                   apk                            
 bytes                                                                         3.1.2                                        npm                            
-c-ares                                                                        1.24.0-r1                                    apk                            
+c-ares                                                                        1.27.0-r0                                    apk                            
 ca-certificates                                                               20240226-r0                                  apk                            
 ca-certificates-bundle                                                        20240226-r0                                  apk                            
 cairo                                                                         1.18.0-r0                                    apk                            
@@ -106,7 +106,7 @@ cups                                                                          2.
 cups-client                                                                   2.4.7-r0                                     apk                            
 cups-lang                                                                     2.4.7-r0                                     apk                            
 cups-libs                                                                     2.4.7-r0                                     apk                            
-cups-pdf                                                                      3.0.1-r1                                     apk                            
+cups-pdf                                                                      3.0.1-r2                                     apk                            
 curl                                                                          8.5.0-r0                                     apk                            
 dario.cat/mergo                                                               v1.0.0                                       go-module                      
 dbus                                                                          1.14.10-r0                                   apk                            
@@ -140,7 +140,7 @@ escape-html                                                                   1.
 etag                                                                          1.8.1                                        npm                            
 eudev-libs                                                                    3.2.14-r0                                    apk                            
 exo-libs                                                                      4.18.0-r3                                    apk                            
-express                                                                       4.19.1                                       npm                            
+express                                                                       4.19.2                                       npm                            
 faac                                                                          1.30-r5                                      apk                            
 fdk-aac                                                                       2.0.2-r4                                     apk                            
 fern                                                                          0.6.2                                        rust-crate                     
@@ -463,7 +463,7 @@ gmp                                                                           6.
 gnupg-dirmngr                                                                 2.4.4-r0                                     apk                            
 gnupg-gpgconf                                                                 2.4.4-r0                                     apk                            
 gnupg-keyboxd                                                                 2.4.4-r0                                     apk                            
-gnutls                                                                        3.8.3-r0                                     apk                            
+gnutls                                                                        3.8.4-r0                                     apk                            
 go.etcd.io/bbolt                                                              v1.3.7                                       go-module     (+1 duplicate)   
 go.etcd.io/etcd/client/pkg/v3                                                 v3.5.6                                       go-module                      
 go.etcd.io/etcd/pkg/v3                                                        v3.5.6                                       go-module                      
@@ -593,11 +593,11 @@ jake                                                                          10
 java-cacerts                                                                  1.0-r1                                       apk                            
 java-common                                                                   0.5-r0                                       apk                            
 java_uno                                                                                                                   java-archive                   
-jce                                                                           1.8.0_392                                    java-archive                   
-jfr                                                                           1.8.0_392                                    java-archive                   
+jce                                                                           1.8.0_402                                    java-archive                   
+jfr                                                                           1.8.0_402                                    java-archive                   
 jq                                                                            1.7.1-r0                                     apk                            
 js                                                                                                                         java-archive                   
-jsse                                                                          1.8.0_392                                    java-archive                   
+jsse                                                                          1.8.0_402                                    java-archive                   
 juh                                                                                                                        java-archive                   
 jurt                                                                                                                       java-archive                   
 k8s.io/api                                                                    v0.26.2                                      go-module                      
@@ -913,7 +913,7 @@ log                                                                           0.
 management-agent                                                                                                           java-archive                   
 mariadb-connector-c                                                           3.3.8-r0                                     apk                            
 maybe-rayon                                                                   0.1.1                                        rust-crate                     
-mbedtls                                                                       2.28.7-r0                                    apk                            
+mbedtls                                                                       2.28.8-r0                                    apk                            
 mcookie                                                                       2.39.3-r0                                    apk                            
 media-typer                                                                   0.3.0                                        npm                            
 memchr                                                                        2.5.0                                        rust-crate                     
@@ -948,7 +948,7 @@ musl-obstack                                                                  1.
 musl-utils                                                                    1.2.4_git20230717-r4                         apk                            
 mythes                                                                        1.2.4-r3                                     apk                            
 nan                                                                           2.19.0                                       npm                            
-nashorn                                                                       1.8.0_392-b08                                java-archive                   
+nashorn                                                                       1.8.0_402-b06                                java-archive                   
 ncurses-terminfo-base                                                         6.4_p20231125-r0                             apk                            
 negotiator                                                                    0.6.3                                        npm                            
 neon                                                                          0.32.5-r2                                    apk                            
@@ -984,9 +984,9 @@ openbox-libs                                                                  3.
 openexr-libiex                                                                3.1.12-r0                                    apk                            
 openexr-libilmthread                                                          3.1.12-r0                                    apk                            
 openexr-libopenexr                                                            3.1.12-r0                                    apk                            
-openjdk8-jre                                                                  8.392.08-r1                                  apk                            
-openjdk8-jre-base                                                             8.392.08-r1                                  apk                            
-openjdk8-jre-lib                                                              8.392.08-r1                                  apk                            
+openjdk8-jre                                                                  8.402.06-r0                                  apk                            
+openjdk8-jre-base                                                             8.402.06-r0                                  apk                            
+openjdk8-jre-lib                                                              8.402.06-r0                                  apk                            
 openjpeg                                                                      2.5.0-r3                                     apk                            
 openssh-client-common                                                         9.6_p1-r0                                    apk                            
 openssh-client-default                                                        9.6_p1-r0                                    apk                            
@@ -1094,9 +1094,9 @@ report                                                                          
 reportbuilder                                                                                                              java-archive                   
 reportbuilderwizard                                                                                                        java-archive                   
 resenje.org/singleflight                                                      v0.4.1                                       go-module                      
-resources                                                                     1.8.0_392                                    java-archive                   
+resources                                                                     1.8.0_402                                    java-archive                   
 ridl                                                                                                                       java-archive                   
-rt                                                                            1.8.0_392                                    java-archive                   
+rt                                                                            1.8.0_402                                    java-archive                   
 runc                                                                          1.1.12-r1                                    apk                            
 rust_hawktracer                                                               0.7.0                                        rust-crate                     
 rust_hawktracer_normal_macro                                                  0.4.1                                        rust-crate                     
@@ -1149,9 +1149,9 @@ startup-notification                                                          0.
 statuses                                                                      2.0.1                                        npm                            
 stdlib                                                                        go1.21.8                                     go-module     (+9 duplicates)  
 sudo                                                                          1.9.15_p2-r0                                 apk                            
-sunec                                                                         1.8.0_392                                    java-archive                   
-sunjce_provider                                                               1.8.0_392                                    java-archive                   
-sunpkcs11                                                                     1.8.0_392                                    java-archive                   
+sunec                                                                         1.8.0_402                                    java-archive                   
+sunjce_provider                                                               1.8.0_402                                    java-archive                   
+sunpkcs11                                                                     1.8.0_402                                    java-archive                   
 supports-color                                                                7.2.0                                        npm                            
 syn                                                                           1.0.109                                      rust-crate                     
 syn                                                                           2.0.16                                       rust-crate                     
@@ -1220,7 +1220,7 @@ xz-libs                                                                       5.
 y4m                                                                           0.8.0                                        rust-crate                     
 yajl                                                                          2.1.0-r8                                     apk                            
 zimg                                                                          3.0.5-r2                                     apk                            
-zipfs                                                                         1.8.0_392                                    java-archive                   
+zipfs                                                                         1.8.0_402                                    java-archive                   
 zix-libs                                                                      0.4.2-r0                                     apk                            
 zlib                                                                          1.3.1-r0                                     apk                            
 zstd-libs                                                                     1.5.5-r8                                     apk                            
