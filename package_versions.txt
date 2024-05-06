@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.2                                        npm                            
 @types/cookie                                                                 0.4.1                                        npm                            
 @types/cors                                                                   2.8.17                                       npm                            
-@types/node                                                                   20.12.7                                      npm                            
+@types/node                                                                   20.12.8                                      npm                            
 HelloWorld                                                                                                                 java-archive                   
 Highlight                                                                                                                  java-archive                   
 MemoryUsage                                                                                                                java-archive                   
@@ -589,7 +589,7 @@ iso-codes-lang                                                                4.
 itertools                                                                     0.10.5                                       rust-crate                     
 ivf                                                                           0.1.2                                        rust-crate                     
 jaccess                                                                                                                    java-archive                   
-jake                                                                          10.8.7                                       npm                            
+jake                                                                          10.9.1                                       npm                            
 java-cacerts                                                                  1.0-r1                                       apk                            
 java-common                                                                   0.5-r0                                       apk                            
 java_uno                                                                                                                   java-archive                   
