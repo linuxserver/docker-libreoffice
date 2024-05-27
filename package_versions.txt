@@ -961,7 +961,7 @@ path-to-regexp                                                                0.
 pciutils-libs                                                                 3.12.0-r1                                           apk                            
 pcre                                                                          8.45-r3                                             apk                            
 pcre2                                                                         10.43-r0                                            apk                            
-pcsc-lite-libs                                                                2.2.0-r0                                            apk                            
+pcsc-lite-libs                                                                2.2.0-r1                                            apk                            
 perl                                                                          5.38.2-r0                                           apk                            
 perl-b-hooks-endofscope                                                       0.28-r0                                             apk                            
 perl-class-data-inheritable                                                   0.09-r1                                             apk                            
