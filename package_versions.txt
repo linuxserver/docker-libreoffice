@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.2                                               npm                            
 @types/cookie                                                                 0.4.1                                               npm                            
 @types/cors                                                                   2.8.17                                              npm                            
-@types/node                                                                   20.14.9                                             npm                            
+@types/node                                                                   20.14.10                                            npm                            
 HelloWorld                                                                                                                        java-archive                   
 Highlight                                                                                                                         java-archive                   
 MemoryUsage                                                                                                                       java-archive                   
@@ -948,9 +948,9 @@ openjdk8-jre                                                                  8.
 openjdk8-jre-base                                                             8.402.06-r0                                         apk                            
 openjdk8-jre-lib                                                              8.402.06-r0                                         apk                            
 openjpeg                                                                      2.5.2-r0                                            apk                            
-openssh-client-common                                                         9.7_p1-r3                                           apk                            
-openssh-client-default                                                        9.7_p1-r3                                           apk                            
-openssh-keygen                                                                9.7_p1-r3                                           apk                            
+openssh-client-common                                                         9.7_p1-r4                                           apk                            
+openssh-client-default                                                        9.7_p1-r4                                           apk                            
+openssh-keygen                                                                9.7_p1-r4                                           apk                            
 openssl                                                                       3.3.1-r1                                            apk                            
 opus                                                                          1.5.2-r0                                            apk                            
 orc                                                                           0.4.37-r0                                           apk                            
