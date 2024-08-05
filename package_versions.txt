@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.2                                               npm                            
 @types/cookie                                                                 0.4.1                                               npm                            
 @types/cors                                                                   2.8.17                                              npm                            
-@types/node                                                                   20.14.12                                            npm                            
+@types/node                                                                   22.1.0                                              npm                            
 HelloWorld                                                                                                                        java-archive                   
 Highlight                                                                                                                         java-archive                   
 MemoryUsage                                                                                                                       java-archive                   
@@ -101,6 +101,8 @@ docker-cli                                                                    26
 docker-cli-buildx                                                             0.14.0-r3                                           apk                            
 docker-cli-compose                                                            2.27.0-r3                                           apk                            
 docker-engine                                                                 26.1.5-r0                                           apk                            
+dunst                                                                         1.11.0-r0                                           apk                            
+dunstify                                                                      1.11.0-r0                                           apk                            
 ee-first                                                                      1.1.1                                               npm                            
 ejs                                                                           3.1.10                                              npm                            
 encodeurl                                                                     1.0.2                                               npm                            
@@ -533,9 +535,9 @@ gst-plugins-base                                                              1.
 gst-plugins-base-lang                                                         1.24.3-r0                                           apk                            
 gstreamer                                                                     1.24.3-r0                                           apk                            
 gstreamer-lang                                                                1.24.3-r0                                           apk                            
-gtk+3.0                                                                       3.24.42-r0                                          apk                            
-gtk+3.0-lang                                                                  3.24.42-r0                                          apk                            
-gtk-update-icon-cache                                                         3.24.42-r0                                          apk                            
+gtk+3.0                                                                       3.24.43-r0                                          apk                            
+gtk+3.0-lang                                                                  3.24.43-r0                                          apk                            
+gtk-update-icon-cache                                                         3.24.43-r0                                          apk                            
 gtk4.0                                                                        4.14.4-r0                                           apk                            
 gtk4.0-lang                                                                   4.14.4-r0                                           apk                            
 harfbuzz                                                                      8.5.0-r0                                            apk                            
@@ -1105,7 +1107,7 @@ toidentifier                                                                  1.
 tslib                                                                         1.23-r0                                             apk                            
 type-is                                                                       1.6.18                                              npm                            
 tzdata                                                                        2024a-r1                                            apk                            
-undici-types                                                                  5.26.5                                              npm                            
+undici-types                                                                  6.13.0                                              npm                            
 unoil                                                                                                                             java-archive                   
 unoloader                                                                                                                         java-archive                   
 unpipe                                                                        1.0.0                                               npm                            
