@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.2                                               npm                            
 @types/cookie                                                                 0.4.1                                               npm                            
 @types/cors                                                                   2.8.17                                              npm                            
-@types/node                                                                   22.2.0                                              npm                            
+@types/node                                                                   22.4.0                                              npm                            
 HelloWorld                                                                                                                        java-archive                   
 Highlight                                                                                                                         java-archive                   
 MemoryUsage                                                                                                                       java-archive                   
@@ -926,7 +926,7 @@ neon                                                                          0.
 netcat-openbsd                                                                1.226-r0                                            apk                            
 nettle                                                                        3.9.1-r0                                            apk                            
 nghttp2-libs                                                                  1.62.1-r0                                           apk                            
-nginx                                                                         1.26.1-r0                                           apk                            
+nginx                                                                         1.26.2-r0                                           apk                            
 nodejs                                                                        20.15.1-r0                                          apk                            
 npth                                                                          1.6-r4                                              apk                            
 nspr                                                                          4.35-r4                                             apk                            
@@ -1107,7 +1107,7 @@ toidentifier                                                                  1.
 tslib                                                                         1.23-r0                                             apk                            
 type-is                                                                       1.6.18                                              npm                            
 tzdata                                                                        2024a-r1                                            apk                            
-undici-types                                                                  6.13.0                                              npm                            
+undici-types                                                                  6.19.6                                              npm                            
 unoil                                                                                                                             java-archive                   
 unoloader                                                                                                                         java-archive                   
 unpipe                                                                        1.0.0                                               npm                            
