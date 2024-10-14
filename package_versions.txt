@@ -5,7 +5,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  UNKNOWN                                             npm           (+1 duplicate)   
 @types/cookie                                                                 0.4.1                                               npm                            
 @types/cors                                                                   2.8.17                                              npm                            
-@types/node                                                                   22.7.4                                              npm                            
+@types/node                                                                   22.7.5                                              npm                            
 HelloWorld                                                                    UNKNOWN                                             java-archive                   
 Highlight                                                                     UNKNOWN                                             java-archive                   
 MemoryUsage                                                                   UNKNOWN                                             java-archive                   
@@ -70,8 +70,8 @@ concat-map                                                                    0.
 containerd                                                                    1.7.17-r2                                           apk                            
 content-disposition                                                           0.5.4                                               npm                            
 content-type                                                                  1.0.5                                               npm                            
-cookie                                                                        0.4.2                                               npm                            
-cookie                                                                        0.6.0                                               npm                            
+cookie                                                                        0.7.1                                               npm                            
+cookie                                                                        0.7.2                                               npm                            
 cookie-signature                                                              1.0.6                                               npm                            
 coreutils                                                                     9.5-r1                                              apk                            
 coreutils-env                                                                 9.5-r1                                              apk                            
@@ -109,7 +109,7 @@ ejs                                                                           3.
 encodeurl                                                                     1.0.2                                               npm                            
 encodeurl                                                                     2.0.0                                               npm                            
 encodings                                                                     1.0.7-r1                                            apk                            
-engine.io                                                                     6.6.1                                               npm                            
+engine.io                                                                     6.6.2                                               npm                            
 engine.io-parser                                                              5.2.3                                               npm                            
 engine.io-parser                                                              UNKNOWN                                             npm           (+1 duplicate)   
 es-define-property                                                            1.0.0                                               npm                            
@@ -118,7 +118,7 @@ escape-html                                                                   1.
 etag                                                                          1.8.1                                               npm                            
 eudev-libs                                                                    3.2.14-r2                                           apk                            
 exo-libs                                                                      4.18.0-r3                                           apk                            
-express                                                                       4.21.0                                              npm                            
+express                                                                       4.21.1                                              npm                            
 faac                                                                          1.30-r5                                             apk                            
 fdk-aac                                                                       2.0.2-r4                                            apk                            
 ffmpeg                                                                        6.1.1-r8                                            apk                            
@@ -153,7 +153,7 @@ fresh                                                                         0.
 fribidi                                                                       1.0.15-r0                                           apk                            
 function-bind                                                                 1.1.2                                               npm                            
 fuse-common                                                                   3.16.2-r0                                           apk                            
-fuse-overlayfs                                                                1.13-r0                                             apk                            
+fuse-overlayfs                                                                1.14-r0                                             apk                            
 fuse3                                                                         3.16.2-r0                                           apk                            
 fuse3-libs                                                                    3.16.2-r0                                           apk                            
 gcompat                                                                       1.1.0-r4                                            apk                            
@@ -918,7 +918,7 @@ musl-locales-lang                                                             0.
 musl-obstack                                                                  1.2.3-r2                                            apk                            
 musl-utils                                                                    1.2.5-r0                                            apk                            
 mythes                                                                        1.2.4-r3                                            apk                            
-nan                                                                           2.20.0                                              npm                            
+nan                                                                           2.22.0                                              npm                            
 nashorn                                                                       1.8.0_402-b06                                       java-archive                   
 ncurses-terminfo-base                                                         6.4_p20240420-r1                                    apk                            
 negotiator                                                                    0.6.3                                               npm                            
@@ -1023,10 +1023,10 @@ pulseaudio-utils                                                              17
 pulseaudio2                                                                   0.5.5                                               npm                            
 py3-xdg                                                                       0.28-r3                                             apk                            
 py3-xdg-pyc                                                                   0.28-r3                                             apk                            
-pyc                                                                           3.12.6-r0                                           apk                            
-python3                                                                       3.12.6-r0                                           apk                            
-python3-pyc                                                                   3.12.6-r0                                           apk                            
-python3-pycache-pyc0                                                          3.12.6-r0                                           apk                            
+pyc                                                                           3.12.7-r0                                           apk                            
+python3                                                                       3.12.7-r0                                           apk                            
+python3-pyc                                                                   3.12.7-r0                                           apk                            
+python3-pycache-pyc0                                                          3.12.7-r0                                           apk                            
 pyxdg                                                                         0.28                                                python                         
 qs                                                                            6.13.0                                              npm                            
 query                                                                         UNKNOWN                                             java-archive                   
