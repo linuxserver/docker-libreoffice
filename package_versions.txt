@@ -5,7 +5,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  UNKNOWN                                             npm           (+1 duplicate)   
 @types/cookie                                                                 0.4.1                                               npm                            
 @types/cors                                                                   2.8.17                                              npm                            
-@types/node                                                                   22.7.5                                              npm                            
+@types/node                                                                   22.7.7                                              npm                            
 HelloWorld                                                                    UNKNOWN                                             java-archive                   
 Highlight                                                                     UNKNOWN                                             java-archive                   
 MemoryUsage                                                                   UNKNOWN                                             java-archive                   
@@ -210,9 +210,9 @@ github.com/containerd/cgroups/v3                                              v3
 github.com/containerd/cgroups/v3                                              v3.0.3                                              go-module                      
 github.com/containerd/console                                                 v1.0.3                                              go-module     (+4 duplicates)  
 github.com/containerd/console                                                 v1.0.4                                              go-module     (+2 duplicates)  
-github.com/containerd/containerd                                              (devel)                                             go-module     (+1 duplicate)   
+github.com/containerd/containerd                                              (devel)                                             go-module                      
 github.com/containerd/containerd                                              v1.7.15                                             go-module     (+1 duplicate)   
-github.com/containerd/containerd                                              v1.7.17                                             go-module     (+1 duplicate)   
+github.com/containerd/containerd                                              v1.7.17                                             go-module     (+2 duplicates)  
 github.com/containerd/containerd                                              v1.7.18                                             go-module                      
 github.com/containerd/continuity                                              v0.4.2                                              go-module     (+3 duplicates)  
 github.com/containerd/continuity                                              v0.4.3                                              go-module     (+2 duplicates)  
@@ -886,7 +886,7 @@ local_policy                                                                  UN
 localedata                                                                    UNKNOWN                                             java-archive                   
 management-agent                                                              UNKNOWN                                             java-archive                   
 mariadb-connector-c                                                           3.3.10-r0                                           apk                            
-mbedtls                                                                       3.6.1-r0                                            apk                            
+mbedtls                                                                       3.6.2-r0                                            apk                            
 mcookie                                                                       2.40.1-r1                                           apk                            
 media-typer                                                                   0.3.0                                               npm                            
 merge-descriptors                                                             1.0.3                                               npm                            
