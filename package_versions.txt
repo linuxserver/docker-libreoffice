@@ -5,7 +5,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  UNKNOWN                                             npm           (+1 duplicate)   
 @types/cookie                                                                 0.4.1                                               npm                            
 @types/cors                                                                   2.8.17                                              npm                            
-@types/node                                                                   22.7.7                                              npm                            
+@types/node                                                                   22.8.1                                              npm                            
 HelloWorld                                                                    UNKNOWN                                             java-archive                   
 Highlight                                                                     UNKNOWN                                             java-archive                   
 MemoryUsage                                                                   UNKNOWN                                             java-archive                   
@@ -618,7 +618,7 @@ libbz2                                                                        1.
 libcap2                                                                       2.70-r0                                             apk                            
 libcdr                                                                        0.1.7-r13                                           apk                            
 libcom_err                                                                    1.47.0-r5                                           apk                            
-libcrypto3                                                                    3.3.2-r0                                            apk                            
+libcrypto3                                                                    3.3.2-r1                                            apk                            
 libcurl                                                                       8.9.1-r2                                            apk                            
 libdav1d                                                                      1.4.2-r0                                            apk                            
 libdc1394                                                                     2.2.7-r0                                            apk                            
@@ -817,7 +817,7 @@ libsodium                                                                     1.
 libsrt                                                                        1.5.3-r0                                            apk                            
 libsrtp                                                                       2.5.0-r1                                            apk                            
 libssh                                                                        0.10.6-r0                                           apk                            
-libssl3                                                                       3.3.2-r0                                            apk                            
+libssl3                                                                       3.3.2-r1                                            apk                            
 libstaroffice                                                                 0.0.7-r8                                            apk                            
 libstdc++                                                                     13.2.1_git20240309-r0                               apk                            
 libtasn1                                                                      4.19.0-r2                                           apk                            
@@ -953,9 +953,9 @@ openjpeg                                                                      2.
 openssh-client-common                                                         9.7_p1-r4                                           apk                            
 openssh-client-default                                                        9.7_p1-r4                                           apk                            
 openssh-keygen                                                                9.7_p1-r4                                           apk                            
-openssl                                                                       3.3.2-r0                                            apk                            
+openssl                                                                       3.3.2-r1                                            apk                            
 opus                                                                          1.5.2-r0                                            apk                            
-orc                                                                           0.4.39-r0                                           apk                            
+orc                                                                           0.4.40-r0                                           apk                            
 p11-kit                                                                       0.25.3-r0                                           apk                            
 p11-kit-trust                                                                 0.25.3-r0                                           apk                            
 pango                                                                         1.52.2-r0                                           apk                            
@@ -1070,7 +1070,7 @@ sigs.k8s.io/structured-merge-diff/v4                                          v4
 sigs.k8s.io/yaml                                                              v1.3.0                                              go-module     (+3 duplicates)  
 skalibs                                                                       2.14.1.1-r0                                         apk                            
 smoketest                                                                     UNKNOWN                                             java-archive                   
-socket.io                                                                     4.8.0                                               npm                            
+socket.io                                                                     4.8.1                                               npm                            
 socket.io-adapter                                                             2.5.5                                               npm                            
 socket.io-parser                                                              4.2.4                                               npm                            
 sord-libs                                                                     0.16.16-r0                                          apk                            
@@ -1142,8 +1142,8 @@ xkbcomp                                                                       1.
 xkeyboard-config                                                              2.41-r0                                             apk                            
 xkeyboard-config-lang                                                         2.41-r0                                             apk                            
 xmerge                                                                        #IMPL-VERSION#                                      java-archive                   
-xmlsec                                                                        1.3.5-r0                                            apk                            
-xmlsec-nss                                                                    1.3.5-r0                                            apk                            
+xmlsec                                                                        1.3.6-r0                                            apk                            
+xmlsec-nss                                                                    1.3.6-r0                                            apk                            
 xterm                                                                         391-r0                                              apk                            
 xvidcore                                                                      1.3.7-r2                                            apk                            
 xz-libs                                                                       5.6.2-r0                                            apk                            
