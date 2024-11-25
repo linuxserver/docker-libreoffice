@@ -5,7 +5,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  UNKNOWN                                             npm           (+1 duplicate)   
 @types/cookie                                                                 0.4.1                                               npm                            
 @types/cors                                                                   2.8.17                                              npm                            
-@types/node                                                                   22.9.0                                              npm                            
+@types/node                                                                   22.9.1                                              npm                            
 HelloWorld                                                                    UNKNOWN                                             java-archive                   
 Highlight                                                                     UNKNOWN                                             java-archive                   
 MemoryUsage                                                                   UNKNOWN                                             java-archive                   
@@ -532,10 +532,10 @@ graphite2                                                                     1.
 gsm                                                                           1.0.22-r3                                           apk                            
 gst-plugins-bad                                                               1.24.9-r0                                           apk                            
 gst-plugins-bad-lang                                                          1.24.9-r0                                           apk                            
-gst-plugins-base                                                              1.24.3-r0                                           apk                            
-gst-plugins-base-lang                                                         1.24.3-r0                                           apk                            
-gstreamer                                                                     1.24.3-r0                                           apk                            
-gstreamer-lang                                                                1.24.3-r0                                           apk                            
+gst-plugins-base                                                              1.24.9-r0                                           apk                            
+gst-plugins-base-lang                                                         1.24.9-r0                                           apk                            
+gstreamer                                                                     1.24.9-r0                                           apk                            
+gstreamer-lang                                                                1.24.9-r0                                           apk                            
 gtk+3.0                                                                       3.24.43-r0                                          apk                            
 gtk+3.0-lang                                                                  3.24.43-r0                                          apk                            
 gtk-update-icon-cache                                                         3.24.43-r0                                          apk                            
@@ -672,7 +672,7 @@ libmodplug                                                                    0.
 libmount                                                                      2.40.1-r1                                           apk                            
 libmspub                                                                      0.1.4-r21                                           apk                            
 libmwaw                                                                       0.3.22-r0                                           apk                            
-libncursesw                                                                   6.4_p20240420-r1                                    apk                            
+libncursesw                                                                   6.4_p20240420-r2                                    apk                            
 libnftnl                                                                      1.2.6-r0                                            apk                            
 libnice                                                                       0.1.22-r0                                           apk                            
 libnotify                                                                     0.8.3-r1                                            apk                            
@@ -682,12 +682,12 @@ libogg                                                                        1.
 libopenmpt                                                                    0.7.7-r0                                            apk                            
 liborcus                                                                      0.19.1-r1                                           apk                            
 libpagemaker                                                                  0.0.4-r9                                            apk                            
-libpanelw                                                                     6.4_p20240420-r1                                    apk                            
+libpanelw                                                                     6.4_p20240420-r2                                    apk                            
 libpaper                                                                      2.2.5-r0                                            apk                            
 libpciaccess                                                                  0.18.1-r0                                           apk                            
 libplacebo                                                                    6.338.2-r1                                          apk                            
 libpng                                                                        1.6.44-r0                                           apk                            
-libpq                                                                         16.5-r0                                             apk                            
+libpq                                                                         16.6-r0                                             apk                            
 libproc2                                                                      4.0.4-r0                                            apk                            
 libpsl                                                                        0.21.5-r1                                           apk                            
 libpulse                                                                      17.0-r0                                             apk                            
@@ -920,7 +920,7 @@ musl-utils                                                                    1.
 mythes                                                                        1.2.4-r3                                            apk                            
 nan                                                                           2.22.0                                              npm                            
 nashorn                                                                       1.8.0_402-b06                                       java-archive                   
-ncurses-terminfo-base                                                         6.4_p20240420-r1                                    apk                            
+ncurses-terminfo-base                                                         6.4_p20240420-r2                                    apk                            
 negotiator                                                                    0.6.3                                               npm                            
 neon                                                                          0.33.0-r0                                           apk                            
 netcat-openbsd                                                                1.226-r0                                            apk                            
