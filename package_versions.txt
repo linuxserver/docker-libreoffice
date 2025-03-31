@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.2                                   npm                            
 @socket.io/component-emitter                                                  UNKNOWN                                 npm           (+1 duplicate)   
 @types/cors                                                                   2.8.17                                  npm                            
-@types/node                                                                   22.13.11                                npm                            
+@types/node                                                                   22.13.14                                npm                            
 HelloWorld                                                                    UNKNOWN                                 java-archive                   
 Highlight                                                                     UNKNOWN                                 java-archive                   
 MemoryUsage                                                                   UNKNOWN                                 java-archive                   
@@ -920,7 +920,7 @@ libzmf                                                                        0.
 libzmq                                                                        4.3.5-r2                                apk                            
 lilv-libs                                                                     0.24.24-r1                              apk                            
 linux-pam                                                                     1.6.1-r1                                apk                            
-llvm19-libs                                                                   19.1.4-r0                               apk                            
+llvm19-libs                                                                   19.1.4-r1                               apk                            
 local_policy                                                                  UNKNOWN                                 java-archive  (+1 duplicate)   
 localedata                                                                    UNKNOWN                                 java-archive                   
 management-agent                                                              UNKNOWN                                 java-archive                   
@@ -1144,7 +1144,7 @@ tint2-lang                                                                    17
 toidentifier                                                                  1.0.1                                   npm                            
 tslib                                                                         1.23-r0                                 apk                            
 type-is                                                                       1.6.18                                  npm                            
-tzdata                                                                        2025a-r0                                apk                            
+tzdata                                                                        2025b-r0                                apk                            
 undici-types                                                                  6.20.0                                  npm                            
 unoil                                                                         UNKNOWN                                 java-archive                   
 unoloader                                                                     UNKNOWN                                 java-archive                   
