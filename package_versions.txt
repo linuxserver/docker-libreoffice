@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.2                                   npm                            
 @socket.io/component-emitter                                                  UNKNOWN                                 npm           (+1 duplicate)   
 @types/cors                                                                   2.8.19                                  npm                            
-@types/node                                                                   22.15.30                                npm                            
+@types/node                                                                   24.0.1                                  npm                            
 HelloWorld                                                                    UNKNOWN                                 java-archive                   
 Highlight                                                                     UNKNOWN                                 java-archive                   
 MemoryUsage                                                                   UNKNOWN                                 java-archive                   
@@ -39,8 +39,8 @@ boost1.84-locale                                                              1.
 boost1.84-program_options                                                     1.84.0-r2                               apk                            
 boost1.84-thread                                                              1.84.0-r2                               apk                            
 box2d                                                                         2.4.1-r2                                apk                            
-brace-expansion                                                               1.1.11                                  npm                            
-brace-expansion                                                               2.0.1                                   npm                            
+brace-expansion                                                               1.1.12                                  npm                            
+brace-expansion                                                               2.0.2                                   npm                            
 brotli-libs                                                                   1.1.0-r2                                apk                            
 busybox                                                                       1.37.0-r12                              apk                            
 busybox-binsh                                                                 1.37.0-r12                              apk                            
@@ -1056,10 +1056,10 @@ pulseaudio-utils                                                              17
 pulseaudio2                                                                   0.5.5                                   npm                            
 py3-xdg                                                                       0.28-r4                                 apk                            
 py3-xdg-pyc                                                                   0.28-r4                                 apk                            
-pyc                                                                           3.12.10-r1                              apk                            
-python3                                                                       3.12.10-r1                              apk                            
-python3-pyc                                                                   3.12.10-r1                              apk                            
-python3-pycache-pyc0                                                          3.12.10-r1                              apk                            
+pyc                                                                           3.12.11-r0                              apk                            
+python3                                                                       3.12.11-r0                              apk                            
+python3-pyc                                                                   3.12.11-r0                              apk                            
+python3-pycache-pyc0                                                          3.12.11-r0                              apk                            
 pyxdg                                                                         0.28                                    python                         
 qs                                                                            6.13.0                                  npm                            
 query                                                                         UNKNOWN                                 java-archive                   
@@ -1144,7 +1144,7 @@ toidentifier                                                                  1.
 tslib                                                                         1.23-r0                                 apk                            
 type-is                                                                       1.6.18                                  npm                            
 tzdata                                                                        2025b-r0                                apk                            
-undici-types                                                                  6.21.0                                  npm                            
+undici-types                                                                  7.8.0                                   npm                            
 unoil                                                                         UNKNOWN                                 java-archive                   
 unoloader                                                                     UNKNOWN                                 java-archive                   
 unpipe                                                                        1.0.0                                   npm                            
