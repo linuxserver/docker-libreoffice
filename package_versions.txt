@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.2                                   npm                            
 @socket.io/component-emitter                                                  UNKNOWN                                 npm           (+1 duplicate)   
 @types/cors                                                                   2.8.19                                  npm                            
-@types/node                                                                   24.0.3                                  npm                            
+@types/node                                                                   24.0.7                                  npm                            
 HelloWorld                                                                    UNKNOWN                                 java-archive                   
 Highlight                                                                     UNKNOWN                                 java-archive                   
 MemoryUsage                                                                   UNKNOWN                                 java-archive                   
