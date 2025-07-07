@@ -4,7 +4,7 @@ NAME                                                                          VE
 @socket.io/component-emitter                                                  3.1.2                                   npm                            
 @socket.io/component-emitter                                                  UNKNOWN                                 npm           (+1 duplicate)   
 @types/cors                                                                   2.8.19                                  npm                            
-@types/node                                                                   24.0.7                                  npm                            
+@types/node                                                                   24.0.10                                 npm                            
 HelloWorld                                                                    UNKNOWN                                 java-archive                   
 Highlight                                                                     UNKNOWN                                 java-archive                   
 MemoryUsage                                                                   UNKNOWN                                 java-archive                   
@@ -83,7 +83,7 @@ cups                                                                          2.
 cups-client                                                                   2.4.11-r0                               apk                            
 cups-lang                                                                     2.4.11-r0                               apk                            
 cups-libs                                                                     2.4.11-r0                               apk                            
-cups-pdf                                                                      3.0.1-r2                                apk                            
+cups-pdf                                                                      3.0.2-r0                                apk                            
 curl                                                                          8.12.1-r1                               apk                            
 dario.cat/mergo                                                               v1.0.0                                  go-module                      
 dario.cat/mergo                                                               v1.0.1                                  go-module     (+1 duplicate)   
@@ -1122,7 +1122,7 @@ st                                                                            0.
 startup-notification                                                          0.12-r8                                 apk                            
 statuses                                                                      2.0.1                                   npm                            
 stdlib                                                                        go1.23.9                                go-module     (+7 duplicates)  
-sudo                                                                          1.9.16_p2-r0                            apk                            
+sudo                                                                          1.9.17_p1-r0                            apk                            
 sunec                                                                         1.8.0_452                               java-archive                   
 sunjce_provider                                                               1.8.0_452                               java-archive                   
 sunpkcs11                                                                     1.8.0_452                               java-archive                   
