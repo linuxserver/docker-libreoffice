@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-kasmvnc:alpine321
+FROM ghcr.io/linuxserver/baseimage-selkies:alpine322
 
 # set version label
 ARG BUILD_DATE
@@ -8,16 +8,17 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="thelamer"
 
 # title
-ENV TITLE=LibreOffice
+ENV TITLE=LibreOffice \
+    NO_GAMEPAD=true
 
 RUN \
   echo "**** add icon ****" && \
   curl -o \
-    /kclient/public/icon.png \
+    /usr/share/selkies/www/icon.png \
     https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/libreoffice-logo.png && \
   echo "**** install packages ****" && \
   if [ -z ${LIBREOFFICE_VERSION+x} ]; then \
-    LIBREOFFICE_VERSION=$(curl -sL "http://dl-cdn.alpinelinux.org/alpine/v3.21/community/x86_64/APKINDEX.tar.gz" | tar -xz -C /tmp \
+    LIBREOFFICE_VERSION=$(curl -sL "http://dl-cdn.alpinelinux.org/alpine/v3.22/community/x86_64/APKINDEX.tar.gz" | tar -xz -C /tmp \
     && awk '/^P:libreoffice$/,/V:/' /tmp/APKINDEX | sed -n 2p | sed 's/^V://'); \
   fi && \
   apk add --no-cache \
@@ -37,6 +38,10 @@ RUN \
   sed -i \
     '/Icon=/c Icon=xterm-color_48x48' \
     /usr/share/applications/st.desktop && \
+  echo "**** application tweaks ****" && \
+  mv \
+    /usr/bin/thunar \
+    /usr/bin/thunar-real && \
   echo "**** cleanup ****" && \
   rm -rf \
     /tmp/*
