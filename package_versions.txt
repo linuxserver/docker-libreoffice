@@ -606,7 +606,7 @@ libcap2                                                                       2.
 libcdr                                                                        0.1.8-r1                                apk                            
 libcmis                                                                       0.6.2-r0                                apk                            
 libcom_err                                                                    1.47.2-r2                               apk                            
-libcrypto3                                                                    3.5.1-r0                                apk                            
+libcrypto3                                                                    3.5.2-r0                                apk                            
 libcurl                                                                       8.14.1-r1                               apk                            
 libdav1d                                                                      1.5.1-r0                                apk                            
 libdc1394                                                                     2.2.7-r0                                apk                            
@@ -805,7 +805,7 @@ libsmartcols                                                                  2.
 libsndfile                                                                    1.2.2-r2                                apk                            
 libsrt                                                                        1.5.3-r1                                apk                            
 libsrtp                                                                       2.6.0-r0                                apk                            
-libssl3                                                                       3.5.1-r0                                apk                            
+libssl3                                                                       3.5.2-r0                                apk                            
 libstaroffice                                                                 0.0.7-r8                                apk                            
 libstdc++                                                                     14.2.0-r6                               apk                            
 libtasn1                                                                      4.20.0-r0                               apk                            
@@ -912,7 +912,7 @@ nginx                                                                         1.
 nginx-mod-http-fancyindex                                                     1.28.0-r3                               apk                            
 npth                                                                          1.8-r0                                  apk                            
 nspr                                                                          4.36-r0                                 apk                            
-nss                                                                           3.112-r0                                apk                            
+nss                                                                           3.113.1-r0                              apk                            
 officebean                                                                    UNKNOWN                                 java-archive                   
 oniguruma                                                                     6.9.10-r0                               apk                            
 openal-soft-libs                                                              1.24.2-r0                               apk                            
@@ -931,7 +931,7 @@ openjpeg                                                                      2.
 openssh-client-common                                                         10.0_p1-r7                              apk                            
 openssh-client-default                                                        10.0_p1-r7                              apk                            
 openssh-keygen                                                                10.0_p1-r7                              apk                            
-openssl                                                                       3.5.1-r0                                apk                            
+openssl                                                                       3.5.2-r0                                apk                            
 opus                                                                          1.5.2-r1                                apk                            
 orc                                                                           0.4.40-r1                               apk                            
 p11-kit                                                                       0.25.5-r2                               apk                            
