@@ -1,3 +1,8 @@
 #!/bin/bash
 
-libreoffice
+if [ ! -f "${HOME}/Desktop/libreoffice-writer.desktop" ]; then
+  cp /usr/share/applications/libreoffice-*.desktop "${HOME}/Desktop/"
+  rm -f "${HOME}/Desktop/libreoffice-xsltfilter.desktop"
+fi
+
+touch "${HOME}/.config/panel-reload"

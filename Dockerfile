@@ -11,7 +11,10 @@ LABEL maintainer="thelamer"
 
 # title
 ENV TITLE=LibreOffice \
-    NO_GAMEPAD=true
+    NO_GAMEPAD=true \
+    PIXELFLUX_WAYLAND=true \
+    SELKIES_DESKTOP=true \
+    NO_FULL=true
 
 RUN \
   echo "**** add icon ****" && \
