@@ -27,8 +27,8 @@ pipeline {
     DEV_DOCKERHUB_IMAGE = 'lsiodev/libreoffice'
     PR_DOCKERHUB_IMAGE = 'lspipepr/libreoffice'
     DIST_IMAGE = 'alpine'
-    DIST_TAG = '3.23'
-    DIST_REPO = 'http://dl-cdn.alpinelinux.org/alpine/v3.23/community/'
+    DIST_TAG = '3.24'
+    DIST_REPO = 'http://dl-cdn.alpinelinux.org/alpine/v3.24/community/'
     DIST_REPO_PACKAGES = 'libreoffice'
     MULTIARCH = 'true'
     CI = 'true'
@@ -36,6 +36,7 @@ pipeline {
     CI_PORT = '3001'
     CI_SSL = 'true'
     CI_DELAY = '120'
+    CI_WEB_SCREENSHOT_DELAY = '30'
     CI_DOCKERENV = 'TZ=US/Pacific'
     CI_AUTH = 'user:password'
     CI_WEBPATH = ''
@@ -898,6 +899,7 @@ pipeline {
                 --shm-size=1gb \
                 -v /var/run/docker.sock:/var/run/docker.sock \
                 -e IMAGE=\"${IMAGE}\" \
+                -e WEB_SCREENSHOT_DELAY=\"${CI_WEB_SCREENSHOT_DELAY}\" \
                 -e DOCKER_LOGS_TIMEOUT=\"${CI_DELAY}\" \
                 -e TAGS=\"${CI_TAGS}\" \
                 -e META_TAG=\"${META_TAG}\" \
