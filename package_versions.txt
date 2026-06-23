@@ -8,7 +8,7 @@ ScriptProviderForJavaScript                                                   UN
 Simple Launcher                                                               1.1.0.14                                binary        (+5 duplicates)  
 US_export_policy                                                              UNKNOWN                                 java-archive  (+1 duplicate)   
 acl-libs                                                                      2.3.2-r1                                apk                            
-agetty                                                                        2.42-r0                                 apk                            
+agetty                                                                        2.42.1-r0                               apk                            
 aiofiles                                                                      25.1.0                                  python                         
 aiohappyeyeballs                                                              2.6.2                                   python                         
 aiohttp                                                                       3.14.1                                  python                         
@@ -47,7 +47,7 @@ bitstream-io                                                                  2.
 bitstream-io                                                                  2.6.0                                   rust-crate                     
 bitvec                                                                        1.0.1                                   rust-crate                     
 bitvec_helpers                                                                3.1.6                                   rust-crate                     
-blkid                                                                         2.42-r0                                 apk                            
+blkid                                                                         2.42.1-r0                               apk                            
 boost1.84-iostreams                                                           1.84.0-r6                               apk                            
 boost1.84-locale                                                              1.84.0-r6                               apk                            
 boost1.84-program_options                                                     1.84.0-r6                               apk                            
@@ -59,13 +59,13 @@ bubblewrap                                                                    0.
 busybox                                                                       1.37.0-r31                              apk                            
 busybox-binsh                                                                 1.37.0-r31                              apk                            
 c-ares                                                                        1.34.6-r0                               apk                            
-ca-certificates                                                               20260413-r0                             apk                            
-ca-certificates-bundle                                                        20260413-r0                             apk                            
+ca-certificates                                                               20260611-r0                             apk                            
+ca-certificates-bundle                                                        20260611-r0                             apk                            
 cairo                                                                         1.18.4-r1                               apk                            
 cairo-gobject                                                                 1.18.4-r1                               apk                            
 catatonit                                                                     0.2.1-r0                                apk                            
 cdparanoia-libs                                                               10.2-r14                                apk                            
-cfdisk                                                                        2.42-r0                                 apk                            
+cfdisk                                                                        2.42.1-r0                               apk                            
 cffi                                                                          2.0.0                                   python                         
 cfg-if                                                                        1.0.0                                   rust-crate                     
 charsets                                                                      UNKNOWN                                 java-archive                   
@@ -115,7 +115,7 @@ dbus-x11                                                                      1.
 desktop-file-utils                                                            0.28-r0                                 apk                            
 directfb                                                                      1.7.7-r8                                apk                            
 distro                                                                        1.9.0                                   python                         
-dmesg                                                                         2.42-r0                                 apk                            
+dmesg                                                                         2.42.1-r0                               apk                            
 dnsns                                                                         UNKNOWN                                 java-archive                   
 dnspython                                                                     2.8.0                                   python                         
 docker                                                                        29.5.3-r0                               apk                            
@@ -143,10 +143,10 @@ fdk-aac                                                                       2.
 fern                                                                          0.6.2                                   rust-crate                     
 fftw-single-libs                                                              3.3.11-r0                               apk                            
 file                                                                          5.47-r2                                 apk                            
-findmnt                                                                       2.42-r0                                 apk                            
+findmnt                                                                       2.42.1-r0                               apk                            
 findutils                                                                     4.10.0-r1                               apk                            
 flite                                                                         2.2-r6                                  apk                            
-flock                                                                         2.42-r0                                 apk                            
+flock                                                                         2.42.1-r0                               apk                            
 flow-engine                                                                   UNKNOWN                                 java-archive                   
 flute                                                                         1.1.6                                   java-archive                   
 font-adobe-100dpi                                                             1.0.4-r2                                apk                            
@@ -168,7 +168,7 @@ form                                                                          UN
 freetype                                                                      2.14.3-r0                               apk                            
 fribidi                                                                       1.0.16-r3                               apk                            
 frozenlist                                                                    1.8.0                                   python                         
-fstrim                                                                        2.42-r0                                 apk                            
+fstrim                                                                        2.42.1-r0                               apk                            
 funty                                                                         2.0.0                                   rust-crate                     
 fuse-common                                                                   3.18.2-r0                               apk                            
 fuse-overlayfs                                                                1.16-r0                                 apk                            
@@ -650,7 +650,7 @@ harfbuzz                                                                      13
 harfbuzz-icu                                                                  13.2.1-r0                               apk                            
 harfbuzz-subset                                                               13.2.1-r0                               apk                            
 heck                                                                          0.4.1                                   rust-crate                     
-hexdump                                                                       2.42-r0                                 apk                            
+hexdump                                                                       2.42.1-r0                               apk                            
 hicolor-icon-theme                                                            0.18-r0                                 apk                            
 hsqldb                                                                        build-25.8.7.3                          java-archive                   
 hwdata-pci                                                                    0.408-r0                                apk                            
@@ -724,7 +724,7 @@ libatk-bridge-2.0                                                             2.
 libattr                                                                       2.5.2-r2                                apk                            
 libb2                                                                         0.98.1-r3                               apk                            
 libbase                                                                       1.1.6                                   java-archive                   
-libblkid                                                                      2.42-r0                                 apk                            
+libblkid                                                                      2.42.1-r0                               apk                            
 libbsd                                                                        0.12.2-r0                               apk                            
 libbz2                                                                        1.0.8-r6                                apk                            
 libc                                                                          0.2.155                                 rust-crate                     
@@ -758,7 +758,7 @@ libevdev                                                                      1.
 libexif                                                                       0.6.26-r0                               apk                            
 libexpat                                                                      2.8.1-r0                                apk                            
 libexttextcat                                                                 3.4.6-r0                                apk                            
-libfdisk                                                                      2.42-r0                                 apk                            
+libfdisk                                                                      2.42.1-r0                               apk                            
 libffi                                                                        3.5.2-r1                                apk                            
 libflac                                                                       1.4.3-r2                                apk                            
 libfontenc                                                                    1.1.9-r0                                apk                            
@@ -805,7 +805,7 @@ libmagic                                                                      5.
 libmd                                                                         1.2.0-r0                                apk                            
 libmnl                                                                        1.0.5-r2                                apk                            
 libmodplug                                                                    0.8.9.0-r3                              apk                            
-libmount                                                                      2.42-r0                                 apk                            
+libmount                                                                      2.42.1-r0                               apk                            
 libmspub                                                                      0.1.4-r24                               apk                            
 libmwaw                                                                       0.3.22-r0                               apk                            
 libncursesw                                                                   6.6_p20260516-r0                        apk                            
@@ -947,7 +947,7 @@ libserializer                                                                 1.
 libsfdo                                                                       0.1.4-r0                                apk                            
 libsharpyuv                                                                   1.6.0-r0                                apk                            
 libsm                                                                         1.2.6-r0                                apk                            
-libsmartcols                                                                  2.42-r0                                 apk                            
+libsmartcols                                                                  2.42.1-r0                               apk                            
 libsndfile                                                                    1.2.2-r2                                apk                            
 libsrt                                                                        1.5.3-r1                                apk                            
 libsrtp                                                                       2.7.0-r0                                apk                            
@@ -961,7 +961,7 @@ libtirpc-nokrb                                                                1.
 libunibreak                                                                   6.1-r0                                  apk                            
 libunistring                                                                  1.4.2-r0                                apk                            
 libusb                                                                        1.0.30-r0                               apk                            
-libuuid                                                                       2.42-r0                                 apk                            
+libuuid                                                                       2.42.1-r0                               apk                            
 libuv                                                                         1.52.1-r0                               apk                            
 libva                                                                         2.23.0-r0                               apk                            
 libva-intel-driver                                                            2.4.1-r2                                apk                            
@@ -1021,15 +1021,15 @@ llvm22-libs                                                                   22
 local_policy                                                                  UNKNOWN                                 java-archive  (+1 duplicate)   
 localedata                                                                    UNKNOWN                                 java-archive                   
 log                                                                           0.4.20                                  rust-crate                     
-logger                                                                        2.42-r0                                 apk                            
-losetup                                                                       2.42-r0                                 apk                            
-lsblk                                                                         2.42-r0                                 apk                            
-lscpu                                                                         2.42-r0                                 apk                            
+logger                                                                        2.42.1-r0                               apk                            
+losetup                                                                       2.42.1-r0                               apk                            
+lsblk                                                                         2.42.1-r0                               apk                            
+lscpu                                                                         2.42.1-r0                               apk                            
 lz4-libs                                                                      1.10.0-r1                               apk                            
 management-agent                                                              UNKNOWN                                 java-archive                   
 mariadb-connector-c                                                           3.4.6-r0                                apk                            
 maybe-rayon                                                                   0.1.1                                   rust-crate                     
-mcookie                                                                       2.42-r0                                 apk                            
+mcookie                                                                       2.42.1-r0                               apk                            
 memchr                                                                        2.7.1                                   rust-crate                     
 mesa                                                                          26.1.1-r1                               apk                            
 mesa-dri-gallium                                                              26.1.1-r1                               apk                            
@@ -1044,10 +1044,10 @@ mesa-vulkan-swrast                                                            26
 minimal-lexical                                                               0.2.1                                   rust-crate                     
 mkfontscale                                                                   1.2.4-r0                                apk                            
 more-itertools                                                                10.8.0                                  python                         
-mount                                                                         2.42-r0                                 apk                            
+mount                                                                         2.42.1-r0                               apk                            
 mpdecimal                                                                     4.0.1-r0                                apk                            
 mpg123-libs                                                                   1.33.5-r0                               apk                            
-msgpack                                                                       1.2.0                                   python                         
+msgpack                                                                       1.2.1                                   python                         
 mtdev                                                                         1.1.7-r0                                apk                            
 multidict                                                                     6.7.1                                   python                         
 musl                                                                          1.2.6-r2                                apk                            
@@ -1103,7 +1103,7 @@ p11-kit                                                                       0.
 p11-kit-trust                                                                 0.25.5-r2                               apk                            
 packaging                                                                     26.0                                    python                         
 pango                                                                         1.57.1-r0                               apk                            
-partx                                                                         2.42-r0                                 apk                            
+partx                                                                         2.42.1-r0                               apk                            
 pasimple                                                                      0.0.3                                   python                         
 paste                                                                         1.0.14                                  rust-crate                     
 pciutils                                                                      3.15.0-r0                               apk                            
@@ -1171,8 +1171,8 @@ resources                                                                     1.
 rhash-libs                                                                    1.4.6-r0                                apk                            
 ridl                                                                          UNKNOWN                                 java-archive                   
 rt                                                                            1.8.0_482                               java-archive                   
-runc                                                                          1.4.2-r2                                apk                            
-runuser                                                                       2.42-r0                                 apk                            
+runc                                                                          1.4.3-r0                                apk                            
+runuser                                                                       2.42.1-r0                               apk                            
 rustix                                                                        0.38.28                                 rust-crate                     
 sac                                                                           UNKNOWN                                 java-archive                   
 sbc                                                                           2.1-r0                                  apk                            
@@ -1180,11 +1180,11 @@ scan_fmt                                                                      0.
 scanelf                                                                       1.3.9-r1                                apk                            
 sdbc_hsqldb                                                                   UNKNOWN                                 java-archive                   
 selkies                                                                       0.0.0                                   python                         
-setarch                                                                       2.42-r0                                 apk                            
-setpriv                                                                       2.42-r0                                 apk                            
+setarch                                                                       2.42.1-r0                               apk                            
+setpriv                                                                       2.42.1-r0                               apk                            
 setuptools                                                                    82.0.1                                  python                         
 setxkbmap                                                                     1.3.5-r0                                apk                            
-sfdisk                                                                        2.42-r0                                 apk                            
+sfdisk                                                                        2.42.1-r0                               apk                            
 shadow                                                                        4.18.0-r1                               apk                            
 shared-mime-info                                                              2.4-r7                                  apk                            
 shared-mime-info-lang                                                         2.4-r7                                  apk                            
@@ -1233,18 +1233,18 @@ tomli                                                                         2.
 tslib                                                                         1.24-r0                                 apk                            
 typing-extensions                                                             4.15.0                                  python                         
 tzdata                                                                        2026b-r0                                apk                            
-umount                                                                        2.42-r0                                 apk                            
+umount                                                                        2.42.1-r0                               apk                            
 unicode-ident                                                                 1.0.12                                  rust-crate                     
 unicode-width                                                                 0.1.11                                  rust-crate                     
 unoil                                                                         UNKNOWN                                 java-archive                   
 unoloader                                                                     UNKNOWN                                 java-archive                   
 utf8parse                                                                     0.2.1                                   rust-crate                     
 utf8proc                                                                      2.11.3-r0                               apk                            
-util-linux                                                                    2.42-r0                                 apk                            
-util-linux-misc                                                               2.42-r0                                 apk                            
+util-linux                                                                    2.42.1-r0                               apk                            
+util-linux-misc                                                               2.42.1-r0                               apk                            
 util-macros                                                                   1.20.2-r0                               apk                            
 utmps-libs                                                                    0.1.3.3-r0                              apk                            
-uuidgen                                                                       2.42-r0                                 apk                            
+uuidgen                                                                       2.42.1-r0                               apk                            
 v_frame                                                                       0.3.7                                   rust-crate                     
 vo-aacenc                                                                     0.1.3-r3                                apk                            
 vo-amrwbenc                                                                   0.1.3-r3                                apk                            
@@ -1259,7 +1259,7 @@ wayland-libs-server                                                           1.
 webrtc-audio-processing-1                                                     1.3-r3                                  apk                            
 websockets                                                                    16.0                                    python                         
 wheel                                                                         0.46.3                                  python                         
-wipefs                                                                        2.42-r0                                 apk                            
+wipefs                                                                        2.42.1-r0                               apk                            
 wl-clipboard                                                                  2.2.1-r1                                apk                            
 wlr-randr                                                                     0.5.0-r1                                apk                            
 wlroots0.19                                                                   0.19.3-r1                               apk                            
