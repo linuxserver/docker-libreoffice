@@ -30,7 +30,7 @@ anyhow                                                                        1.
 anyhow                                                                        1.0.98                                  rust-crate                     
 anyio                                                                         4.14.2                                  python                         
 aom-libs                                                                      3.14.1-r0                               apk                            
-apk-tools                                                                     3.0.6-r0                                apk                            
+apk-tools                                                                     3.0.7-r0                                apk                            
 arg_enum_proc_macro                                                           0.3.4                                   rust-crate                     
 argon2-libs                                                                   20190702-r5                             apk                            
 arrayvec                                                                      0.7.4                                   rust-crate                     
@@ -70,7 +70,7 @@ catatonit                                                                     0.
 cdparanoia-libs                                                               10.2-r14                                apk                            
 certifi                                                                       2026.7.22                               python                         
 cfdisk                                                                        2.42.1-r0                               apk                            
-cffi                                                                          2.1.0                                   python                         
+cffi                                                                          2.1.1                                   python                         
 cfg-if                                                                        1.0.0                                   rust-crate                     
 charsets                                                                      UNKNOWN                                 java-archive                   
 clap                                                                          4.4.14                                  rust-crate                     
@@ -109,7 +109,7 @@ crossbeam-deque                                                               0.
 crossbeam-epoch                                                               0.9.18                                  rust-crate                     
 crossbeam-queue                                                               0.3.11                                  rust-crate                     
 crossbeam-utils                                                               0.8.19                                  rust-crate                     
-cryptography                                                                  49.0.0                                  python                         
+cryptography                                                                  50.0.0                                  python                         
 cups-libs                                                                     2.4.19-r0                               apk                            
 curl                                                                          8.21.0-r0                               apk                            
 dario.cat/mergo                                                               v1.0.2                                  go-module     (+1 duplicate)   
@@ -691,11 +691,11 @@ java-cacerts                                                                  1.
 java-common                                                                   1.0-r2                                  apk                            
 java_uno                                                                      UNKNOWN                                 java-archive                   
 java_websocket                                                                UNKNOWN                                 java-archive                   
-jce                                                                           1.8.0_482                               java-archive                   
-jfr                                                                           1.8.0_482                               java-archive                   
+jce                                                                           1.8.0_492                               java-archive                   
+jfr                                                                           1.8.0_492                               java-archive                   
 jq                                                                            1.8.1-r0                                apk                            
 js                                                                            UNKNOWN                                 java-archive                   
-jsse                                                                          1.8.0_482                               java-archive                   
+jsse                                                                          1.8.0_492                               java-archive                   
 juh                                                                           UNKNOWN                                 java-archive                   
 jurt                                                                          UNKNOWN                                 java-archive                   
 k8s.io/api                                                                    v0.35.4                                 go-module                      
@@ -725,7 +725,7 @@ lazy_static                                                                   1.
 lcms2                                                                         2.19-r0                                 apk                            
 libSvtAv1Enc                                                                  4.1.0-r0                                apk                            
 libabw                                                                        0.1.3-r3                                apk                            
-libapk                                                                        3.0.6-r0                                apk                            
+libapk                                                                        3.0.7-r0                                apk                            
 libarchive                                                                    3.8.7-r0                                apk                            
 libass                                                                        0.17.4-r1                               apk                            
 libassuan                                                                     3.0.2-r0                                apk                            
@@ -1066,7 +1066,7 @@ musl-locales                                                                  0.
 musl-locales-lang                                                             0.1.0-r1                                apk                            
 musl-utils                                                                    1.2.6-r2                                apk                            
 mythes                                                                        1.2.4-r4                                apk                            
-nashorn                                                                       1.8.0_482-b08                           java-archive                   
+nashorn                                                                       1.8.0_492-b09                           java-archive                   
 ncurses-terminfo                                                              6.6_p20260516-r0                        apk                            
 ncurses-terminfo-base                                                         6.6_p20260516-r0                        apk                            
 neon                                                                          0.36.0-r0                               apk                            
@@ -1100,9 +1100,9 @@ openexr-libilmthread                                                          3.
 openexr-libopenexr                                                            3.4.13-r0                               apk                            
 openexr-libopenexrcore                                                        3.4.13-r0                               apk                            
 openh264                                                                      2.6.0-r0                                apk                            
-openjdk8-jre                                                                  8.482.08-r0                             apk                            
-openjdk8-jre-base                                                             8.482.08-r0                             apk                            
-openjdk8-jre-lib                                                              8.482.08-r0                             apk                            
+openjdk8-jre                                                                  8.492.09-r0                             apk                            
+openjdk8-jre-base                                                             8.492.09-r0                             apk                            
+openjdk8-jre-lib                                                              8.492.09-r0                             apk                            
 openjpeg                                                                      2.5.4-r1                                apk                            
 openssh-client-common                                                         10.3_p1-r0                              apk                            
 openssh-client-default                                                        10.3_p1-r0                              apk                            
@@ -1146,7 +1146,7 @@ pulseaudio-lang                                                               17
 pulseaudio-utils                                                              17.0-r7                                 apk                            
 pulsectl                                                                      24.12.0                                 python                         
 pyc                                                                           3.14.5-r0                               apk                            
-pycairo                                                                       1.29.0                                  python                         
+pycairo                                                                       1.29.1                                  python                         
 pycparser                                                                     3.0                                     python                         
 pydantic                                                                      2.13.4                                  python                         
 pydantic-core                                                                 2.46.4                                  python                         
@@ -1154,7 +1154,7 @@ pyee                                                                          13
 pygobject                                                                     3.56.3                                  python                         
 pylibsrtp                                                                     1.0.0                                   python                         
 pynput                                                                        1.8.2                                   python                         
-pyopenssl                                                                     26.3.0                                  python                         
+pyopenssl                                                                     26.4.0                                  python                         
 python-dotenv                                                                 1.2.2                                   python                         
 python-xlib                                                                   0.33                                    python                         
 python3                                                                       3.14.5-r0                               apk                            
@@ -1185,10 +1185,10 @@ report                                                                        UN
 reportbuilder                                                                 UNKNOWN                                 java-archive                   
 reportbuilderwizard                                                           UNKNOWN                                 java-archive                   
 resenje.org/singleflight                                                      v0.4.3                                  go-module                      
-resources                                                                     1.8.0_482                               java-archive                   
+resources                                                                     1.8.0_492                               java-archive                   
 rhash-libs                                                                    1.4.6-r0                                apk                            
 ridl                                                                          UNKNOWN                                 java-archive                   
-rt                                                                            1.8.0_482                               java-archive                   
+rt                                                                            1.8.0_492                               java-archive                   
 runc                                                                          1.4.3-r0                                apk                            
 runuser                                                                       2.42.1-r0                               apk                            
 rustix                                                                        0.38.28                                 rust-crate                     
@@ -1224,13 +1224,13 @@ spirv-tools                                                                   1.
 sqlite-libs                                                                   3.53.2-r0                               apk                            
 ssl_client                                                                    1.37.0-r31                              apk                            
 st                                                                            0.9.3-r0                                apk                            
-starlette                                                                     1.3.1                                   python                         
+starlette                                                                     1.4.1                                   python                         
 startup-notification                                                          0.12-r8                                 apk                            
 stdlib                                                                        go1.26.3                                go-module     (+7 duplicates)  
 sudo                                                                          1.9.17_p2-r1                            apk                            
-sunec                                                                         1.8.0_482                               java-archive                   
-sunjce_provider                                                               1.8.0_482                               java-archive                   
-sunpkcs11                                                                     1.8.0_482                               java-archive                   
+sunec                                                                         1.8.0_492                               java-archive                   
+sunjce_provider                                                               1.8.0_492                               java-archive                   
+sunpkcs11                                                                     1.8.0_492                               java-archive                   
 syn                                                                           2.0.48                                  rust-crate                     
 table                                                                         UNKNOWN                                 java-archive                   
 tags.cncf.io/container-device-interface                                       v1.1.0                                  go-module     (+2 duplicates)  
@@ -1265,7 +1265,7 @@ util-linux-misc                                                               2.
 util-macros                                                                   1.20.2-r0                               apk                            
 utmps-libs                                                                    0.1.3.3-r0                              apk                            
 uuidgen                                                                       2.42.1-r0                               apk                            
-uvicorn                                                                       0.52.0                                  python                         
+uvicorn                                                                       0.52.1                                  python                         
 uvloop                                                                        0.22.1                                  python                         
 v_frame                                                                       0.3.7                                   rust-crate                     
 vo-aacenc                                                                     0.1.3-r3                                apk                            
@@ -1328,7 +1328,7 @@ xz-libs                                                                       5.
 y4m                                                                           0.8.0                                   rust-crate                     
 yajl                                                                          2.1.0-r9                                apk                            
 yarl                                                                          1.24.5                                  python                         
-zipfs                                                                         1.8.0_482                               java-archive                   
+zipfs                                                                         1.8.0_492                               java-archive                   
 zipp                                                                          3.23.0                                  python                         
 zlib                                                                          1.3.2-r0                                apk                            
 zstd-libs                                                                     1.5.7-r2                                apk                            
