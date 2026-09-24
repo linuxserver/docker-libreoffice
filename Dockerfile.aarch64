@@ -30,8 +30,7 @@ RUN \
     libreoffice==${LIBREOFFICE_VERSION} \
     openjdk8-jre \
     st \
-    thunar \
-    tint2 && \
+    thunar && \
   echo "**** locales ****" && \
   for LOCALE in $(curl -sL https://raw.githubusercontent.com/thelamer/lang-stash/master/langs); do \
     apk add --no-cache libreoffice-lang-$(echo ${LOCALE}| tr '[:upper:]' '[:lower:]') || apk add --no-cache libreoffice-lang-$(echo ${LOCALE}| head -c2); \
@@ -55,8 +54,6 @@ RUN \
     /usr/share/applications/st.desktop \
     /usr/share/applications/thunar-bulk-rename.desktop \
     /usr/share/applications/thunar-settings.desktop \
-    /usr/share/applications/tint2conf.desktop \
-    /usr/share/applications/tint2.desktop \
     /usr/share/applications/uxterm.desktop \
     /usr/share/applications/xfce4-about.desktop \
     /usr/share/applications/xterm.desktop

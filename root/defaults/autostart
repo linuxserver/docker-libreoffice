@@ -1,11 +1,8 @@
 #!/bin/bash
 
-# default file copies first run
-if [[ ! -f $HOME/.config/tint2/tint2rc ]]; then
-    mkdir -p $HOME/.config/tint2
-    cp /defaults/tint2rc $HOME/.config/tint2/tint2rc
+if [ ! -f "${HOME}/Desktop/libreoffice-writer.desktop" ]; then
+  cp /usr/share/applications/libreoffice-*.desktop "${HOME}/Desktop/"
+  rm -f "${HOME}/Desktop/libreoffice-xsltfilter.desktop"
 fi
 
-# Start UI
-tint2 &
-libreoffice
+touch "${HOME}/.config/panel-reload"
